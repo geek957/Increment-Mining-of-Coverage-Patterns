@@ -1,0 +1,17 @@
+type_of_algo,minRF,minCS,maxOR,increment,inpfile,outfile,candidate_old,candidate_new,process_done
+cmine_increment,0.0625,0.3,0.05,25,../dataset/synthetic/synthetic_increment_25K.txt,./outputs/kosarak/kosarak_25_0.0625_0.3_0.05_synthetic.txt,1,869,2.72838377953
+cmine_increment,0.0625,0.3,0.1,25,../dataset/synthetic/synthetic_increment_25K.txt,./outputs/kosarak/kosarak_25_0.0625_0.3_0.1_synthetic.txt,1,867,2.53215312958
+cmine_increment,0.0625,0.3,0.15,25,../dataset/synthetic/synthetic_increment_25K.txt,./outputs/kosarak/kosarak_25_0.0625_0.3_0.15_synthetic.txt,1,867,2.63785290718
+cmine_increment,0.0625,0.3,0.2,25,../dataset/synthetic/synthetic_increment_25K.txt,./outputs/kosarak/kosarak_25_0.0625_0.3_0.2_synthetic.txt,1,867,2.67699480057
+cmine_increment,0.0625,0.3,0.25,25,../dataset/synthetic/synthetic_increment_25K.txt,./outputs/kosarak/kosarak_25_0.0625_0.3_0.25_synthetic.txt,1,867,2.52875089645
+cmine_increment,0.0625,0.3,0.3,25,../dataset/synthetic/synthetic_increment_25K.txt,./outputs/kosarak/kosarak_25_0.0625_0.3_0.3_synthetic.txt,1,866,2.88174009323
+cmine_increment,0.0625,0.3,0.2,5,../dataset/synthetic/synthetic_increment_5K.txt,./outputs/kosarak/kosarak_5_0.0625_0.3_0.2_test_out.txt,7,860,1.94974088669
+cmine_increment,0.0625,0.3,0.2,10,../dataset/synthetic/synthetic_increment_10K.txt,./outputs/kosarak/kosarak_10_0.0625_0.3_0.2_test_out.txt,7,870,2.29702806473
+cmine_increment,0.0625,0.3,0.2,15,../dataset/synthetic/synthetic_increment_15K.txt,./outputs/kosarak/kosarak_15_0.0625_0.3_0.2_test_out.txt,0,865,2.10671591759
+cmine_increment,0.0625,0.3,0.2,20,../dataset/synthetic/synthetic_increment_20K.txt,./outputs/kosarak/kosarak_20_0.0625_0.3_0.2_test_out.txt,1,866,2.52224683762
+cmine_increment,0.0625,0.3,0.2,25,../dataset/synthetic/synthetic_increment_25K.txt,./outputs/kosarak/kosarak_25_0.0625_0.3_0.2_test_out.txt,1,867,2.75199007988
+cmine_increment,0.0625,0.3,0.2,30,../dataset/synthetic/synthetic_increment_30K.txt,./outputs/kosarak/kosarak_30_0.0625_0.3_0.2_test_out.txt,7,873,3.05350780487
+cmine_increment,0.0625,0.3,0.2,35,../dataset/synthetic/synthetic_increment_35K.txt,./outputs/kosarak/kosarak_35_0.0625_0.3_0.2_test_out.txt,7,873,2.968968153
+cmine_increment,0.0625,0.3,0.2,40,../dataset/synthetic/synthetic_increment_40K.txt,./outputs/kosarak/kosarak_40_0.0625_0.3_0.2_test_out.txt,7,873,3.34108686447
+cmine_increment,0.0625,0.3,0.2,45,../dataset/synthetic/synthetic_increment_45K.txt,./outputs/kosarak/kosarak_45_0.0625_0.3_0.2_test_out.txt,7,874,3.38800787926
+cmine_increment,0.0625,0.3,0.2,50,../dataset/synthetic/synthetic_increment_50K.txt,./outputs/kosarak/kosarak_50_0.0625_0.3_0.2_test_out.txt,7,874,3.57205104828

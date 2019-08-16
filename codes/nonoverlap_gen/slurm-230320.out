@@ -1,0 +1,390 @@
+filename--- ./outputs/synthetic/synthetic_50K_0.4_0.3_0.005_nonoverlappatterns.csv
+frequent items: []
+data read 0.296320915222
+patternschecked: 0
+process done 0.297240972519
+filename--- ./outputs/synthetic/synthetic_50K_0.4_0.3_0.01_nonoverlappatterns.csv
+frequent items: []
+data read 0.293969869614
+patternschecked: 0
+process done 0.294970035553
+filename--- ./outputs/synthetic/synthetic_50K_0.4_0.3_0.015_nonoverlappatterns.csv
+frequent items: []
+data read 0.27338719368
+patternschecked: 0
+process done 0.436465024948
+filename--- ./outputs/synthetic/synthetic_50K_0.4_0.3_0.02_nonoverlappatterns.csv
+frequent items: []
+data read 0.273143053055
+patternschecked: 0
+process done 0.274163961411
+filename--- ./outputs/synthetic/synthetic_50K_0.4_0.3_0.025_nonoverlappatterns.csv
+frequent items: []
+data read 0.271438837051
+patternschecked: 0
+process done 0.272454977036
+filename--- ./outputs/synthetic/synthetic_50K_0.4_0.3_0.03_nonoverlappatterns.csv
+frequent items: []
+data read 0.272596120834
+patternschecked: 0
+process done 0.273555040359
+filename--- ./outputs/synthetic/synthetic_50K_0.425_0.3_0.005_nonoverlappatterns.csv
+frequent items: []
+data read 0.272925138474
+patternschecked: 0
+process done 0.27414894104
+filename--- ./outputs/synthetic/synthetic_50K_0.425_0.3_0.01_nonoverlappatterns.csv
+frequent items: []
+data read 0.273054122925
+patternschecked: 0
+process done 0.274150133133
+filename--- ./outputs/synthetic/synthetic_50K_0.425_0.3_0.015_nonoverlappatterns.csv
+frequent items: []
+data read 0.27573299408
+patternschecked: 0
+process done 0.276772975922
+filename--- ./outputs/synthetic/synthetic_50K_0.425_0.3_0.02_nonoverlappatterns.csv
+frequent items: []
+data read 0.276755094528
+patternschecked: 0
+process done 0.277769088745
+filename--- ./outputs/synthetic/synthetic_50K_0.425_0.3_0.025_nonoverlappatterns.csv
+frequent items: []
+data read 0.270815134048
+patternschecked: 0
+process done 0.271762132645
+filename--- ./outputs/synthetic/synthetic_50K_0.425_0.3_0.03_nonoverlappatterns.csv
+frequent items: []
+data read 0.270519018173
+patternschecked: 0
+process done 0.271148920059
+filename--- ./outputs/synthetic/synthetic_50K_0.45_0.3_0.005_nonoverlappatterns.csv
+frequent items: []
+data read 0.271970033646
+patternschecked: 0
+process done 0.272557020187
+filename--- ./outputs/synthetic/synthetic_50K_0.45_0.3_0.01_nonoverlappatterns.csv
+frequent items: []
+data read 0.27142906189
+patternschecked: 0
+process done 0.272464036942
+filename--- ./outputs/synthetic/synthetic_50K_0.45_0.3_0.015_nonoverlappatterns.csv
+frequent items: []
+data read 0.270952939987
+patternschecked: 0
+process done 0.271869897842
+filename--- ./outputs/synthetic/synthetic_50K_0.45_0.3_0.02_nonoverlappatterns.csv
+frequent items: []
+data read 0.270864009857
+patternschecked: 0
+process done 0.271713018417
+filename--- ./outputs/synthetic/synthetic_50K_0.45_0.3_0.025_nonoverlappatterns.csv
+frequent items: []
+data read 0.274902105331
+patternschecked: 0
+process done 0.275931119919
+filename--- ./outputs/synthetic/synthetic_50K_0.45_0.3_0.03_nonoverlappatterns.csv
+frequent items: []
+data read 0.273926019669
+patternschecked: 0
+process done 0.274779081345
+filename--- ./outputs/synthetic/synthetic_50K_0.475_0.3_0.005_nonoverlappatterns.csv
+frequent items: []
+data read 0.274806976318
+patternschecked: 0
+process done 0.275730848312
+filename--- ./outputs/synthetic/synthetic_50K_0.475_0.3_0.01_nonoverlappatterns.csv
+frequent items: []
+data read 0.272192955017
+patternschecked: 0
+process done 0.273134946823
+filename--- ./outputs/synthetic/synthetic_50K_0.475_0.3_0.015_nonoverlappatterns.csv
+frequent items: []
+data read 0.284708976746
+patternschecked: 0
+process done 0.285664081573
+filename--- ./outputs/synthetic/synthetic_50K_0.475_0.3_0.02_nonoverlappatterns.csv
+frequent items: []
+data read 0.302975893021
+patternschecked: 0
+process done 0.303900003433
+filename--- ./outputs/synthetic/synthetic_50K_0.475_0.3_0.025_nonoverlappatterns.csv
+frequent items: []
+data read 0.29471206665
+patternschecked: 0
+process done 0.295618057251
+filename--- ./outputs/synthetic/synthetic_50K_0.475_0.3_0.03_nonoverlappatterns.csv
+frequent items: []
+data read 0.298106908798
+patternschecked: 0
+process done 0.298977851868
+filename--- ./outputs/synthetic/synthetic_50K_0.5_0.3_0.005_nonoverlappatterns.csv
+frequent items: []
+data read 0.29558801651
+patternschecked: 0
+process done 0.296447038651
+filename--- ./outputs/synthetic/synthetic_50K_0.5_0.3_0.01_nonoverlappatterns.csv
+frequent items: []
+data read 0.293040990829
+patternschecked: 0
+process done 0.293958902359
+filename--- ./outputs/synthetic/synthetic_50K_0.5_0.3_0.015_nonoverlappatterns.csv
+frequent items: []
+data read 0.294585943222
+patternschecked: 0
+process done 0.295421123505
+filename--- ./outputs/synthetic/synthetic_50K_0.5_0.3_0.02_nonoverlappatterns.csv
+frequent items: []
+data read 0.296258211136
+patternschecked: 0
+process done 0.297138214111
+filename--- ./outputs/synthetic/synthetic_50K_0.5_0.3_0.025_nonoverlappatterns.csv
+frequent items: []
+data read 0.29407787323
+patternschecked: 0
+process done 0.294915914536
+filename--- ./outputs/synthetic/synthetic_50K_0.5_0.3_0.03_nonoverlappatterns.csv
+frequent items: []
+data read 0.294369935989
+patternschecked: 0
+process done 0.295313835144
+filename--- ./outputs/synthetic/synthetic_50K_0.525_0.3_0.005_nonoverlappatterns.csv
+frequent items: []
+data read 0.297159194946
+patternschecked: 0
+process done 0.298079013824
+filename--- ./outputs/synthetic/synthetic_50K_0.525_0.3_0.01_nonoverlappatterns.csv
+frequent items: []
+data read 0.297101020813
+patternschecked: 0
+process done 0.298074007034
+filename--- ./outputs/synthetic/synthetic_50K_0.525_0.3_0.015_nonoverlappatterns.csv
+frequent items: []
+data read 0.294401168823
+patternschecked: 0
+process done 0.295370101929
+filename--- ./outputs/synthetic/synthetic_50K_0.525_0.3_0.02_nonoverlappatterns.csv
+frequent items: []
+data read 0.294646024704
+patternschecked: 0
+process done 0.29553604126
+filename--- ./outputs/synthetic/synthetic_50K_0.525_0.3_0.025_nonoverlappatterns.csv
+frequent items: []
+data read 0.297165155411
+patternschecked: 0
+process done 0.298059225082
+filename--- ./outputs/synthetic/synthetic_50K_0.525_0.3_0.03_nonoverlappatterns.csv
+frequent items: []
+data read 0.294546842575
+patternschecked: 0
+process done 0.295530796051
+filename--- ./outputs/synthetic/synthetic_50K_0.55_0.3_0.005_nonoverlappatterns.csv
+frequent items: []
+data read 0.294677019119
+patternschecked: 0
+process done 0.295635938644
+filename--- ./outputs/synthetic/synthetic_50K_0.55_0.3_0.01_nonoverlappatterns.csv
+frequent items: []
+data read 0.294897079468
+patternschecked: 0
+process done 0.29584312439
+filename--- ./outputs/synthetic/synthetic_50K_0.55_0.3_0.015_nonoverlappatterns.csv
+frequent items: []
+data read 0.292370796204
+patternschecked: 0
+process done 0.29328584671
+filename--- ./outputs/synthetic/synthetic_50K_0.55_0.3_0.02_nonoverlappatterns.csv
+frequent items: []
+data read 0.295303106308
+patternschecked: 0
+process done 0.296128988266
+filename--- ./outputs/synthetic/synthetic_50K_0.55_0.3_0.025_nonoverlappatterns.csv
+frequent items: []
+data read 0.294669151306
+patternschecked: 0
+process done 0.295332193375
+filename--- ./outputs/synthetic/synthetic_50K_0.55_0.3_0.03_nonoverlappatterns.csv
+frequent items: []
+data read 0.293350934982
+patternschecked: 0
+process done 0.294078111649
+filename--- ./outputs/synthetic/synthetic_50K_0.575_0.3_0.005_nonoverlappatterns.csv
+frequent items: []
+data read 0.295166015625
+patternschecked: 0
+process done 0.295855998993
+filename--- ./outputs/synthetic/synthetic_50K_0.575_0.3_0.01_nonoverlappatterns.csv
+frequent items: []
+data read 0.296937942505
+patternschecked: 0
+process done 0.297804832458
+filename--- ./outputs/synthetic/synthetic_50K_0.575_0.3_0.015_nonoverlappatterns.csv
+frequent items: []
+data read 0.297183990479
+patternschecked: 0
+process done 0.298020124435
+filename--- ./outputs/synthetic/synthetic_50K_0.575_0.3_0.02_nonoverlappatterns.csv
+frequent items: []
+data read 0.299942970276
+patternschecked: 0
+process done 0.300784111023
+filename--- ./outputs/synthetic/synthetic_50K_0.575_0.3_0.025_nonoverlappatterns.csv
+frequent items: []
+data read 0.296507120132
+patternschecked: 0
+process done 0.297389030457
+filename--- ./outputs/synthetic/synthetic_50K_0.575_0.3_0.03_nonoverlappatterns.csv
+frequent items: []
+data read 0.304709911346
+patternschecked: 0
+process done 0.305527925491
+filename--- ./outputs/synthetic/synthetic_50K_0.6_0.3_0.005_nonoverlappatterns.csv
+frequent items: []
+data read 0.294564008713
+patternschecked: 0
+process done 0.295583963394
+filename--- ./outputs/synthetic/synthetic_50K_0.6_0.3_0.01_nonoverlappatterns.csv
+frequent items: []
+data read 0.293930053711
+patternschecked: 0
+process done 0.294873952866
+filename--- ./outputs/synthetic/synthetic_50K_0.6_0.3_0.015_nonoverlappatterns.csv
+frequent items: []
+data read 0.293900966644
+patternschecked: 0
+process done 0.294781923294
+filename--- ./outputs/synthetic/synthetic_50K_0.6_0.3_0.02_nonoverlappatterns.csv
+frequent items: []
+data read 0.295642137527
+patternschecked: 0
+process done 0.29668211937
+filename--- ./outputs/synthetic/synthetic_50K_0.6_0.3_0.025_nonoverlappatterns.csv
+frequent items: []
+data read 0.292851924896
+patternschecked: 0
+process done 0.293721914291
+filename--- ./outputs/synthetic/synthetic_50K_0.6_0.3_0.03_nonoverlappatterns.csv
+frequent items: []
+data read 0.294427156448
+patternschecked: 0
+process done 0.295356035233
+filename--- ./outputs/synthetic/synthetic_50K_0.625_0.3_0.005_nonoverlappatterns.csv
+frequent items: []
+data read 0.293932199478
+patternschecked: 0
+process done 0.294857025146
+filename--- ./outputs/synthetic/synthetic_50K_0.625_0.3_0.01_nonoverlappatterns.csv
+frequent items: []
+data read 0.297704219818
+patternschecked: 0
+process done 0.298593997955
+filename--- ./outputs/synthetic/synthetic_50K_0.625_0.3_0.015_nonoverlappatterns.csv
+frequent items: []
+data read 0.296504974365
+patternschecked: 0
+process done 0.29728102684
+filename--- ./outputs/synthetic/synthetic_50K_0.625_0.3_0.02_nonoverlappatterns.csv
+frequent items: []
+data read 0.294376850128
+patternschecked: 0
+process done 0.295306921005
+filename--- ./outputs/synthetic/synthetic_50K_0.625_0.3_0.025_nonoverlappatterns.csv
+frequent items: []
+data read 0.294918060303
+patternschecked: 0
+process done 0.295931100845
+filename--- ./outputs/synthetic/synthetic_50K_0.625_0.3_0.03_nonoverlappatterns.csv
+frequent items: []
+data read 0.301903963089
+patternschecked: 0
+process done 0.302840948105
+filename--- ./outputs/synthetic/synthetic_50K_0.65_0.3_0.005_nonoverlappatterns.csv
+frequent items: []
+data read 0.29828119278
+patternschecked: 0
+process done 0.299218177795
+filename--- ./outputs/synthetic/synthetic_50K_0.65_0.3_0.01_nonoverlappatterns.csv
+frequent items: []
+data read 0.296663045883
+patternschecked: 0
+process done 0.297580003738
+filename--- ./outputs/synthetic/synthetic_50K_0.65_0.3_0.015_nonoverlappatterns.csv
+frequent items: []
+data read 0.274124860764
+patternschecked: 0
+process done 0.431357860565
+filename--- ./outputs/synthetic/synthetic_50K_0.65_0.3_0.02_nonoverlappatterns.csv
+frequent items: []
+data read 0.272491931915
+patternschecked: 0
+process done 0.273501873016
+filename--- ./outputs/synthetic/synthetic_50K_0.65_0.3_0.025_nonoverlappatterns.csv
+frequent items: []
+data read 0.275572061539
+patternschecked: 0
+process done 0.276562929153
+filename--- ./outputs/synthetic/synthetic_50K_0.65_0.3_0.03_nonoverlappatterns.csv
+frequent items: []
+data read 0.277554035187
+patternschecked: 0
+process done 0.278583049774
+filename--- ./outputs/synthetic/synthetic_50K_0.675_0.3_0.005_nonoverlappatterns.csv
+frequent items: []
+data read 0.274058818817
+patternschecked: 0
+process done 0.274968862534
+filename--- ./outputs/synthetic/synthetic_50K_0.675_0.3_0.01_nonoverlappatterns.csv
+frequent items: []
+data read 0.272923946381
+patternschecked: 0
+process done 0.273874998093
+filename--- ./outputs/synthetic/synthetic_50K_0.675_0.3_0.015_nonoverlappatterns.csv
+frequent items: []
+data read 0.272269964218
+patternschecked: 0
+process done 0.273120164871
+filename--- ./outputs/synthetic/synthetic_50K_0.675_0.3_0.02_nonoverlappatterns.csv
+frequent items: []
+data read 0.281709909439
+patternschecked: 0
+process done 0.282660007477
+filename--- ./outputs/synthetic/synthetic_50K_0.675_0.3_0.025_nonoverlappatterns.csv
+frequent items: []
+data read 0.272122859955
+patternschecked: 0
+process done 0.27296090126
+filename--- ./outputs/synthetic/synthetic_50K_0.675_0.3_0.03_nonoverlappatterns.csv
+frequent items: []
+data read 0.277993917465
+patternschecked: 0
+process done 0.278676986694
+filename--- ./outputs/synthetic/synthetic_50K_0.7_0.3_0.005_nonoverlappatterns.csv
+frequent items: []
+data read 0.274498939514
+patternschecked: 0
+process done 0.275664806366
+filename--- ./outputs/synthetic/synthetic_50K_0.7_0.3_0.01_nonoverlappatterns.csv
+frequent items: []
+data read 0.272471904755
+patternschecked: 0
+process done 0.273478984833
+filename--- ./outputs/synthetic/synthetic_50K_0.7_0.3_0.015_nonoverlappatterns.csv
+frequent items: []
+data read 0.271811962128
+patternschecked: 0
+process done 0.272571086884
+filename--- ./outputs/synthetic/synthetic_50K_0.7_0.3_0.02_nonoverlappatterns.csv
+frequent items: []
+data read 0.27282500267
+patternschecked: 0
+process done 0.273829936981
+filename--- ./outputs/synthetic/synthetic_50K_0.7_0.3_0.025_nonoverlappatterns.csv
+frequent items: []
+data read 0.271531105042
+patternschecked: 0
+process done 0.272453069687
+filename--- ./outputs/synthetic/synthetic_50K_0.7_0.3_0.03_nonoverlappatterns.csv
+frequent items: []
+data read 0.271224021912
+patternschecked: 0
+process done 0.27223110199

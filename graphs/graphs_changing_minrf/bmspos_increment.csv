@@ -1,0 +1,8 @@
+type_of_algo,minRF,minCS,maxOR,increment,inpfile,outfile,candidate_old,candidate_new,process_done
+cmine_increment,0.065,0.5,0.6,25,../dataset/bmspos_1L/increment_25K.txt,./outputs/bmspos/bmspos_25_0.065_0.5_0.6_test_out.txt,2403,5216,212.59493
+cmine_increment,0.07,0.5,0.6,25,../dataset/bmspos_1L/increment_25K.txt,./outputs/bmspos/bmspos_25_0.07_0.5_0.6_test_out.txt,1856,4221,154.538983
+cmine_increment,0.075,0.5,0.6,25,../dataset/bmspos_1L/increment_25K.txt,./outputs/bmspos/bmspos_25_0.075_0.5_0.6_test_out.txt,1856,4221,154.471023
+cmine_increment,0.08,0.5,0.6,25,../dataset/bmspos_1L/increment_25K.txt,./outputs/bmspos/bmspos_25_0.08_0.5_0.6_test_out.txt,1435,3115,120.466955
+cmine_increment,0.085,0.5,0.6,25,../dataset/bmspos_1L/increment_25K.txt,./outputs/bmspos/bmspos_25_0.085_0.5_0.6_test_out.txt,64,1173,15.406606
+cmine_increment,0.09,0.5,0.6,25,../dataset/bmspos_1L/increment_25K.txt,./outputs/bmspos/bmspos_25_0.09_0.5_0.6_test_out.txt,44,1139,12.244077
+cmine_increment,0.095,0.5,0.6,25,../dataset/bmspos_1L/increment_25K.txt,./outputs/bmspos/bmspos_25_0.095_0.5_0.6_test_out.txt,44,1139,12.225758

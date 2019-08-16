@@ -1,0 +1,1404 @@
+filename--- ./outputs/bmspos/bmspos_1L_0.065_0.5_0.1_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62', '11', '92']
+data read 0.609445810318
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+item 11
+item 92
+patternschecked: 171
+process done 6.33405590057
+filename--- ./outputs/bmspos/bmspos_1L_0.065_0.4_0.1_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62', '11', '92']
+data read 0.56035900116
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+item 11
+item 92
+patternschecked: 171
+process done 6.24255609512
+filename--- ./outputs/bmspos/bmspos_1L_0.065_0.5_0.2_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62', '11', '92']
+data read 0.554122924805
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+item 11
+item 92
+patternschecked: 325
+process done 10.1999061108
+filename--- ./outputs/bmspos/bmspos_1L_0.065_0.4_0.2_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62', '11', '92']
+data read 0.549336910248
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+item 11
+item 92
+patternschecked: 325
+process done 10.2464678288
+filename--- ./outputs/bmspos/bmspos_1L_0.065_0.5_0.3_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62', '11', '92']
+data read 0.550415992737
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+item 11
+item 92
+patternschecked: 730
+process done 21.4429700375
+filename--- ./outputs/bmspos/bmspos_1L_0.065_0.4_0.3_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62', '11', '92']
+data read 0.558939933777
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+item 11
+item 92
+patternschecked: 730
+process done 21.3758909702
+filename--- ./outputs/bmspos/bmspos_1L_0.065_0.5_0.4_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62', '11', '92']
+data read 0.562625169754
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+item 11
+item 92
+patternschecked: 2054
+process done 56.5934140682
+filename--- ./outputs/bmspos/bmspos_1L_0.065_0.4_0.4_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62', '11', '92']
+data read 0.570718050003
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+item 11
+item 92
+patternschecked: 2054
+process done 57.2971050739
+filename--- ./outputs/bmspos/bmspos_1L_0.065_0.5_0.5_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62', '11', '92']
+data read 0.550227880478
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+item 11
+item 92
+patternschecked: 6138
+process done 161.676560879
+filename--- ./outputs/bmspos/bmspos_1L_0.065_0.4_0.5_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62', '11', '92']
+data read 0.562069892883
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+item 11
+item 92
+patternschecked: 6138
+process done 161.705560923
+filename--- ./outputs/bmspos/bmspos_1L_0.065_0.5_0.6_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62', '11', '92']
+data read 0.553910970688
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+item 11
+item 92
+patternschecked: 18819
+process done 485.996629
+filename--- ./outputs/bmspos/bmspos_1L_0.065_0.4_0.6_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62', '11', '92']
+data read 0.568642854691
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+item 11
+item 92
+patternschecked: 18819
+process done 482.481829882
+filename--- ./outputs/bmspos/bmspos_1L_0.065_0.5_0.7_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62', '11', '92']
+data read 0.572973966599
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+item 11
+item 92
+patternschecked: 60887
+process done 1511.48520207
+filename--- ./outputs/bmspos/bmspos_1L_0.065_0.4_0.7_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62', '11', '92']
+data read 0.564424037933
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+item 11
+item 92
+patternschecked: 60887
+process done 1506.80859208
+filename--- ./outputs/bmspos/bmspos_1L_0.065_0.5_0.8_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62', '11', '92']
+data read 0.607196807861
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+item 11
+item 92
+patternschecked: 167524
+process done 4167.29307985
+filename--- ./outputs/bmspos/bmspos_1L_0.065_0.4_0.8_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62', '11', '92']
+data read 0.570152997971
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+item 11
+item 92
+patternschecked: 167524
+process done 4104.27407193
+filename--- ./outputs/bmspos/bmspos_1L_0.065_0.5_0.9_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62', '11', '92']
+data read 0.562778949738
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+item 11
+item 92
+patternschecked: 340822
+process done 7991.18782806
+filename--- ./outputs/bmspos/bmspos_1L_0.065_0.4_0.9_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62', '11', '92']
+data read 0.561608076096
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+item 11
+item 92
+patternschecked: 340822
+process done 7942.71907806
+filename--- ./outputs/bmspos/bmspos_1L_0.075_0.5_0.1_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62']
+data read 0.56195807457
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+patternschecked: 136
+process done 5.06172609329
+filename--- ./outputs/bmspos/bmspos_1L_0.075_0.4_0.1_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62']
+data read 0.556282997131
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+patternschecked: 136
+process done 5.00533795357
+filename--- ./outputs/bmspos/bmspos_1L_0.075_0.5_0.2_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62']
+data read 0.558376789093
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+patternschecked: 225
+process done 7.51911091805
+filename--- ./outputs/bmspos/bmspos_1L_0.075_0.4_0.2_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62']
+data read 0.570248126984
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+patternschecked: 225
+process done 7.95184803009
+filename--- ./outputs/bmspos/bmspos_1L_0.075_0.5_0.3_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62']
+data read 0.547250032425
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+patternschecked: 449
+process done 13.8913829327
+filename--- ./outputs/bmspos/bmspos_1L_0.075_0.4_0.3_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62']
+data read 0.549748182297
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+patternschecked: 449
+process done 13.8677461147
+filename--- ./outputs/bmspos/bmspos_1L_0.075_0.5_0.4_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62']
+data read 0.551438093185
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+patternschecked: 1182
+process done 33.1905150414
+filename--- ./outputs/bmspos/bmspos_1L_0.075_0.4_0.4_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62']
+data read 0.555915117264
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+patternschecked: 1182
+process done 34.2740950584
+filename--- ./outputs/bmspos/bmspos_1L_0.075_0.5_0.5_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62']
+data read 0.556159973145
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+patternschecked: 3146
+process done 85.1494190693
+filename--- ./outputs/bmspos/bmspos_1L_0.075_0.4_0.5_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62']
+data read 0.550360918045
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+patternschecked: 3146
+process done 85.1734678745
+filename--- ./outputs/bmspos/bmspos_1L_0.075_0.5_0.6_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62']
+data read 0.56627702713
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+patternschecked: 8443
+process done 223.351926088
+filename--- ./outputs/bmspos/bmspos_1L_0.075_0.4_0.6_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62']
+data read 0.550818920135
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+patternschecked: 8443
+process done 223.110002041
+filename--- ./outputs/bmspos/bmspos_1L_0.075_0.5_0.7_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62']
+data read 0.563659191132
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+patternschecked: 22964
+process done 594.822902203
+filename--- ./outputs/bmspos/bmspos_1L_0.075_0.4_0.7_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62']
+data read 0.550535202026
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+patternschecked: 22964
+process done 596.357998133
+filename--- ./outputs/bmspos/bmspos_1L_0.075_0.5_0.8_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62']
+data read 0.569324016571
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+patternschecked: 49092
+process done 1249.32723904
+filename--- ./outputs/bmspos/bmspos_1L_0.075_0.4_0.8_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62']
+data read 0.558861017227
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+patternschecked: 49092
+process done 1255.23035192
+filename--- ./outputs/bmspos/bmspos_1L_0.075_0.5_0.9_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62']
+data read 0.576900005341
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+patternschecked: 92206
+process done 2279.00183797
+filename--- ./outputs/bmspos/bmspos_1L_0.075_0.4_0.9_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62']
+data read 0.558044195175
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+item 36
+item 65
+item 23
+item 81
+item 62
+patternschecked: 92206
+process done 2276.222929
+filename--- ./outputs/bmspos/bmspos_1L_0.085_0.5_0.1_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37']
+data read 0.53465294838
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+patternschecked: 66
+process done 2.95059490204
+filename--- ./outputs/bmspos/bmspos_1L_0.085_0.4_0.1_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37']
+data read 0.527132034302
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+patternschecked: 66
+process done 2.95020103455
+filename--- ./outputs/bmspos/bmspos_1L_0.085_0.5_0.2_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37']
+data read 0.531286001205
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+patternschecked: 76
+process done 3.60978913307
+filename--- ./outputs/bmspos/bmspos_1L_0.085_0.4_0.2_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37']
+data read 0.573688983917
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+patternschecked: 76
+process done 3.3811211586
+filename--- ./outputs/bmspos/bmspos_1L_0.085_0.5_0.3_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37']
+data read 0.549259901047
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+patternschecked: 108
+process done 4.48173379898
+filename--- ./outputs/bmspos/bmspos_1L_0.085_0.4_0.3_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37']
+data read 0.527369976044
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+patternschecked: 108
+process done 4.47557210922
+filename--- ./outputs/bmspos/bmspos_1L_0.085_0.5_0.4_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37']
+data read 0.533094167709
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+patternschecked: 245
+process done 8.68058109283
+filename--- ./outputs/bmspos/bmspos_1L_0.085_0.4_0.4_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37']
+data read 0.530001878738
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+patternschecked: 245
+process done 8.62893605232
+filename--- ./outputs/bmspos/bmspos_1L_0.085_0.5_0.5_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37']
+data read 0.532570123672
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+patternschecked: 434
+process done 14.9153530598
+filename--- ./outputs/bmspos/bmspos_1L_0.085_0.4_0.5_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37']
+data read 0.534002065659
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+patternschecked: 434
+process done 15.0667171478
+filename--- ./outputs/bmspos/bmspos_1L_0.085_0.5_0.6_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37']
+data read 0.526118993759
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+patternschecked: 794
+process done 26.1590931416
+filename--- ./outputs/bmspos/bmspos_1L_0.085_0.4_0.6_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37']
+data read 0.536643028259
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+patternschecked: 794
+process done 26.2707390785
+filename--- ./outputs/bmspos/bmspos_1L_0.085_0.5_0.7_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37']
+data read 0.530958890915
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+patternschecked: 1331
+process done 41.9435088634
+filename--- ./outputs/bmspos/bmspos_1L_0.085_0.4_0.7_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37']
+data read 0.539793968201
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+patternschecked: 1331
+process done 42.9028589725
+filename--- ./outputs/bmspos/bmspos_1L_0.085_0.5_0.8_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37']
+data read 0.544572114944
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+patternschecked: 1950
+process done 58.9989750385
+filename--- ./outputs/bmspos/bmspos_1L_0.085_0.4_0.8_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37']
+data read 0.547520160675
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+patternschecked: 1950
+process done 59.1822412014
+filename--- ./outputs/bmspos/bmspos_1L_0.085_0.5_0.9_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37']
+data read 0.553020000458
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+patternschecked: 3394
+process done 94.5866279602
+filename--- ./outputs/bmspos/bmspos_1L_0.085_0.4_0.9_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37']
+data read 0.5330119133
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+item 63
+item 37
+patternschecked: 3394
+process done 94.4379000664
+filename--- ./outputs/bmspos/bmspos_1L_0.095_0.5_0.1_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.52994799614
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+patternschecked: 45
+process done 2.34076976776
+filename--- ./outputs/bmspos/bmspos_1L_0.095_0.4_0.1_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.53267288208
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+patternschecked: 45
+process done 2.33878087997
+filename--- ./outputs/bmspos/bmspos_1L_0.095_0.5_0.2_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.541859149933
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+patternschecked: 48
+process done 2.42014813423
+filename--- ./outputs/bmspos/bmspos_1L_0.095_0.4_0.2_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.523901939392
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+patternschecked: 48
+process done 2.3970079422
+filename--- ./outputs/bmspos/bmspos_1L_0.095_0.5_0.3_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.527317047119
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+patternschecked: 60
+process done 2.84668898582
+filename--- ./outputs/bmspos/bmspos_1L_0.095_0.4_0.3_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.524070978165
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+patternschecked: 60
+process done 2.83005905151
+filename--- ./outputs/bmspos/bmspos_1L_0.095_0.5_0.4_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.526417970657
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+patternschecked: 126
+process done 4.96136307716
+filename--- ./outputs/bmspos/bmspos_1L_0.095_0.4_0.4_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.52597618103
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+patternschecked: 126
+process done 4.91564512253
+filename--- ./outputs/bmspos/bmspos_1L_0.095_0.5_0.5_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.525988101959
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+patternschecked: 184
+process done 6.85430002213
+filename--- ./outputs/bmspos/bmspos_1L_0.095_0.4_0.5_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.524966955185
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+patternschecked: 184
+process done 6.83644294739
+filename--- ./outputs/bmspos/bmspos_1L_0.095_0.5_0.6_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.579478979111
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+patternschecked: 283
+process done 10.4643959999
+filename--- ./outputs/bmspos/bmspos_1L_0.095_0.4_0.6_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.531414985657
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+patternschecked: 283
+process done 10.3964290619
+filename--- ./outputs/bmspos/bmspos_1L_0.095_0.5_0.7_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.534676074982
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+patternschecked: 389
+process done 13.5657029152
+filename--- ./outputs/bmspos/bmspos_1L_0.095_0.4_0.7_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.5218501091
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+patternschecked: 389
+process done 13.5859260559
+filename--- ./outputs/bmspos/bmspos_1L_0.095_0.5_0.8_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.525388002396
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+patternschecked: 509
+process done 17.3012089729
+filename--- ./outputs/bmspos/bmspos_1L_0.095_0.4_0.8_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.52348780632
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+patternschecked: 509
+process done 16.7750358582
+filename--- ./outputs/bmspos/bmspos_1L_0.095_0.5_0.9_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.523662090302
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+patternschecked: 892
+process done 26.5491769314
+filename--- ./outputs/bmspos/bmspos_1L_0.095_0.4_0.9_nonoverlappatterns.csv
+frequent items: ['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.522104978561
+item 3
+item 8
+item 35
+item 9
+item 1
+item 30
+item 33
+item 42
+item 10
+item 34
+patternschecked: 892
+process done 26.6270091534

@@ -1,0 +1,8 @@
+type_of_algo,minRF,minCS,maxOR,inpfile_old,inpfile_new,outfile,additional_first_scan,additional_second_scan,chk_old,chk_new,common_patterns,data_read,process_done
+cmine_increment,0.045,0.3,0.2,25,../dataset/synthetic/synthetic_increment_25K.txt,./outputs/synthetic/synthetic_25_0.045_0.3_0.2_test_out.txt,801,3477,59.388
+cmine_increment,0.0475,0.3,0.2,25,../dataset/synthetic/synthetic_increment_25K.txt,./outputs/synthetic/synthetic_25_0.0475_0.3_0.2_test_out.txt,496,1664,20.176776
+cmine_increment,0.05,0.3,0.2,25,../dataset/synthetic/synthetic_increment_25K.txt,./outputs/synthetic/synthetic_25_0.05_0.3_0.2_test_out.txt,855,1761,19.205033
+cmine_increment,0.0525,0.3,0.2,25,../dataset/synthetic/synthetic_increment_25K.txt,./outputs/synthetic/synthetic_25_0.0525_0.3_0.2_test_out.txt,15,905,3.936014
+cmine_increment,0.055,0.3,0.2,25,../dataset/synthetic/synthetic_increment_25K.txt,./outputs/synthetic/synthetic_25_0.055_0.3_0.2_test_out.txt,14,878,2.966992
+cmine_increment,0.0575,0.3,0.2,25,../dataset/synthetic/synthetic_increment_25K.txt,./outputs/synthetic/synthetic_25_0.0575_0.3_0.2_test_out.txt,14,878,3.035772
+cmine_increment,0.06,0.3,0.2,25,../dataset/synthetic/synthetic_increment_25K.txt,./outputs/synthetic/synthetic_25_0.06_0.3_0.2_test_out.txt,1,866,2.62338

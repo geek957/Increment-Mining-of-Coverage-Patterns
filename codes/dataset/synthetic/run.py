@@ -1,0 +1,10 @@
+f = open("T10I4D100K.txt",'r')
+line = f.readline()
+fout = open("data.txt",'w')
+while line!='':
+    line = line.split(" ")
+    line = ",".join(line)
+    fout.write(line)
+    line = f.readline()
+f.close()
+fout.close()

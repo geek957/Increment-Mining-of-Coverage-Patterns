@@ -1,0 +1,17 @@
+type_of_algo,minRF,minCS,maxOR,inpfile,outfile,data_read,patterns_checked,process_done
+cmine,0.05,0.3,0.05,./../dataset/synthetic/synthetic_75K.txt,././outputs/synthetic/synthetic_0.05_0.3_0.05_synthetic_75K.txt,0.192010164261,93,4.00771594048
+cmine,0.05,0.3,0.1,./../dataset/synthetic/synthetic_75K.txt,././outputs/synthetic/synthetic_0.05_0.3_0.1_synthetic_75K.txt,0.178230047226,304,13.7165892124
+cmine,0.05,0.3,0.15,./../dataset/synthetic/synthetic_75K.txt,././outputs/synthetic/synthetic_0.05_0.3_0.15_synthetic_75K.txt,0.189579963684,652,32.7366709709
+cmine,0.05,0.3,0.2,./../dataset/synthetic/synthetic_75K.txt,././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_75K.txt,0.18085193634,1188,64.3557128906
+cmine,0.05,0.3,0.25,./../dataset/synthetic/synthetic_75K.txt,././outputs/synthetic/synthetic_0.05_0.3_0.25_synthetic_75K.txt,0.176671028137,1875,110.807730913
+cmine,0.05,0.3,0.3,./../dataset/synthetic/synthetic_75K.txt,././outputs/synthetic/synthetic_0.05_0.3_0.3_synthetic_75K.txt,0.17969918251,2725,165.316903114
+cmine,0.05,0.3,0.2,./../dataset/synthetic/synthetic_55K.txt,././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_55K.txt,0.131988048553,262,9.58190321922
+cmine,0.05,0.3,0.2,./../dataset/synthetic/synthetic_60K.txt,././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_60K.txt,0.154036998749,434,19.0456848145
+cmine,0.05,0.3,0.2,./../dataset/synthetic/synthetic_65K.txt,././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_65K.txt,0.167541980743,435,20.7597560883
+cmine,0.05,0.3,0.2,./../dataset/synthetic/synthetic_70K.txt,././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_70K.txt,0.165760993958,1214,61.0288841724
+cmine,0.05,0.3,0.2,./../dataset/synthetic/synthetic_75K.txt,././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_75K.txt,0.189550161362,1188,67.6504950523
+cmine,0.05,0.3,0.2,./../dataset/synthetic/synthetic_80K.txt,././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_80K.txt,0.189292907715,757,42.3671998978
+cmine,0.05,0.3,0.2,./../dataset/synthetic/synthetic_85K.txt,././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_85K.txt,0.212309837341,766,48.3977339268
+cmine,0.05,0.3,0.2,./../dataset/synthetic/synthetic_90K.txt,././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_90K.txt,0.222804069519,773,50.9559881687
+cmine,0.05,0.3,0.2,./../dataset/synthetic/synthetic_95K.txt,././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_95K.txt,0.223263025284,771,51.2878820896
+cmine,0.05,0.3,0.2,./../dataset/synthetic/synthetic_100K.txt,././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_100K.txt,0.235198974609,492,34.3980560303

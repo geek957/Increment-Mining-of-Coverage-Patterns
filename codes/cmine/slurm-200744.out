@@ -1,0 +1,54 @@
+minCS: 0.25 maxOR: 0.025 outfile ././outputs/synthetic/T10I4D100K_0.0325_0.25_0.025_final_synthetic_out.txt
+././outputs/synthetic/T10I4D100K_0.0325_0.25_0.025_final_synthetic_out.txt
+data read 0.202332019806
+length 1 45
+length 2 65
+process done 37.3399250507
+minCS: 0.25 maxOR: 0.05 outfile ././outputs/synthetic/T10I4D100K_0.0325_0.25_0.05_final_synthetic_out.txt
+././outputs/synthetic/T10I4D100K_0.0325_0.25_0.05_final_synthetic_out.txt
+data read 0.182619810104
+length 1 45
+length 2 687
+length 3 318
+process done 330.70102191
+minCS: 0.25 maxOR: 0.075 outfile ././outputs/synthetic/T10I4D100K_0.0325_0.25_0.075_final_synthetic_out.txt
+././outputs/synthetic/T10I4D100K_0.0325_0.25_0.075_final_synthetic_out.txt
+data read 0.178400039673
+length 1 45
+length 2 833
+length 3 5349
+length 4 1298
+process done 1736.85940599
+minCS: 0.25 maxOR: 0.1 outfile ././outputs/synthetic/T10I4D100K_0.0325_0.25_0.1_final_synthetic_out.txt
+././outputs/synthetic/T10I4D100K_0.0325_0.25_0.1_final_synthetic_out.txt
+data read 0.176949977875
+length 1 45
+length 2 898
+length 3 8626
+length 4 26452
+length 5 4360
+process done 7261.89051199
+minCS: 0.25 maxOR: 0.125 outfile ././outputs/synthetic/T10I4D100K_0.0325_0.25_0.125_final_synthetic_out.txt
+././outputs/synthetic/T10I4D100K_0.0325_0.25_0.125_final_synthetic_out.txt
+data read 0.18666100502
+length 1 45
+length 2 944
+length 3 10637
+length 4 58081
+length 5 96722
+length 6 12094
+length 7 1
+process done 31387.265687
+minCS: 0.25 maxOR: 0.15 outfile ././outputs/synthetic/T10I4D100K_0.0325_0.25_0.15_final_synthetic_out.txt
+././outputs/synthetic/T10I4D100K_0.0325_0.25_0.15_final_synthetic_out.txt
+data read 0.182147979736
+length 1 45
+length 2 961
+length 3 12037
+length 4 83615
+length 5 275102
+length 6 276200
+length 7 27353
+length 8 13
+process done 106372.624634
+slurmstepd: *** JOB 200744 ON gnode38 CANCELLED AT 2019-02-25T15:48:28 DUE TO TIME LIMIT ***

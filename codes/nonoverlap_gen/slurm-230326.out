@@ -1,0 +1,1128 @@
+filename--- ./outputs/synthetic/synthetic_50K_0.04_0.3_0.05_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494', '120', '883', '419', '937', '177', '145', '438', '460', '362', '789', '32', '39', '682', '470', '283', '914', '538']
+data read 0.327867984772
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+item 120
+item 883
+item 419
+item 937
+item 177
+item 145
+item 438
+item 460
+item 362
+item 789
+item 32
+item 39
+item 682
+item 470
+item 283
+item 914
+item 538
+patternschecked: 1902
+process done 19.4987640381
+filename--- ./outputs/synthetic/synthetic_50K_0.04_0.3_0.1_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494', '120', '883', '419', '937', '177', '145', '438', '460', '362', '789', '32', '39', '682', '470', '283', '914', '538']
+data read 0.311021089554
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+item 120
+item 883
+item 419
+item 937
+item 177
+item 145
+item 438
+item 460
+item 362
+item 789
+item 32
+item 39
+item 682
+item 470
+item 283
+item 914
+item 538
+patternschecked: 14090
+process done 148.173309088
+filename--- ./outputs/synthetic/synthetic_50K_0.04_0.3_0.15_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494', '120', '883', '419', '937', '177', '145', '438', '460', '362', '789', '32', '39', '682', '470', '283', '914', '538']
+data read 0.310419082642
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+item 120
+item 883
+item 419
+item 937
+item 177
+item 145
+item 438
+item 460
+item 362
+item 789
+item 32
+item 39
+item 682
+item 470
+item 283
+item 914
+item 538
+patternschecked: 78987
+process done 840.884400129
+filename--- ./outputs/synthetic/synthetic_50K_0.04_0.3_0.2_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494', '120', '883', '419', '937', '177', '145', '438', '460', '362', '789', '32', '39', '682', '470', '283', '914', '538']
+data read 0.310717105865
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+item 120
+item 883
+item 419
+item 937
+item 177
+item 145
+item 438
+item 460
+item 362
+item 789
+item 32
+item 39
+item 682
+item 470
+item 283
+item 914
+item 538
+patternschecked: 324997
+process done 3693.77869511
+filename--- ./outputs/synthetic/synthetic_50K_0.04_0.3_0.25_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494', '120', '883', '419', '937', '177', '145', '438', '460', '362', '789', '32', '39', '682', '470', '283', '914', '538']
+data read 0.330957889557
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+item 120
+item 883
+item 419
+item 937
+item 177
+item 145
+item 438
+item 460
+item 362
+item 789
+item 32
+item 39
+item 682
+item 470
+item 283
+item 914
+item 538
+patternschecked: 1164118
+process done 13206.623692
+filename--- ./outputs/synthetic/synthetic_50K_0.04_0.3_0.3_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494', '120', '883', '419', '937', '177', '145', '438', '460', '362', '789', '32', '39', '682', '470', '283', '914', '538']
+data read 0.384982824326
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+item 120
+item 883
+item 419
+item 937
+item 177
+item 145
+item 438
+item 460
+item 362
+item 789
+item 32
+item 39
+item 682
+item 470
+item 283
+item 914
+item 538
+patternschecked: 3480418
+process done 43204.1839509
+filename--- ./outputs/synthetic/synthetic_50K_0.0425_0.3_0.05_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494', '120', '883', '419', '937', '177', '145', '438', '460', '362', '789', '32']
+data read 0.403914928436
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+item 120
+item 883
+item 419
+item 937
+item 177
+item 145
+item 438
+item 460
+item 362
+item 789
+item 32
+patternschecked: 837
+process done 10.0265669823
+filename--- ./outputs/synthetic/synthetic_50K_0.0425_0.3_0.1_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494', '120', '883', '419', '937', '177', '145', '438', '460', '362', '789', '32']
+data read 0.35889005661
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+item 120
+item 883
+item 419
+item 937
+item 177
+item 145
+item 438
+item 460
+item 362
+item 789
+item 32
+patternschecked: 4460
+process done 51.5677320957
+filename--- ./outputs/synthetic/synthetic_50K_0.0425_0.3_0.15_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494', '120', '883', '419', '937', '177', '145', '438', '460', '362', '789', '32']
+data read 0.351785898209
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+item 120
+item 883
+item 419
+item 937
+item 177
+item 145
+item 438
+item 460
+item 362
+item 789
+item 32
+patternschecked: 18007
+process done 214.197655916
+filename--- ./outputs/synthetic/synthetic_50K_0.0425_0.3_0.2_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494', '120', '883', '419', '937', '177', '145', '438', '460', '362', '789', '32']
+data read 0.370265960693
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+item 120
+item 883
+item 419
+item 937
+item 177
+item 145
+item 438
+item 460
+item 362
+item 789
+item 32
+patternschecked: 52997
+process done 646.174634933
+filename--- ./outputs/synthetic/synthetic_50K_0.0425_0.3_0.25_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494', '120', '883', '419', '937', '177', '145', '438', '460', '362', '789', '32']
+data read 0.379004955292
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+item 120
+item 883
+item 419
+item 937
+item 177
+item 145
+item 438
+item 460
+item 362
+item 789
+item 32
+patternschecked: 140899
+process done 1779.27698612
+filename--- ./outputs/synthetic/synthetic_50K_0.0425_0.3_0.3_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494', '120', '883', '419', '937', '177', '145', '438', '460', '362', '789', '32']
+data read 0.369509935379
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+item 120
+item 883
+item 419
+item 937
+item 177
+item 145
+item 438
+item 460
+item 362
+item 789
+item 32
+patternschecked: 321204
+process done 4040.49775791
+filename--- ./outputs/synthetic/synthetic_50K_0.045_0.3_0.05_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494', '120', '883', '419', '937', '177', '145', '438']
+data read 0.363163948059
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+item 120
+item 883
+item 419
+item 937
+item 177
+item 145
+item 438
+patternschecked: 413
+process done 5.09228610992
+filename--- ./outputs/synthetic/synthetic_50K_0.045_0.3_0.1_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494', '120', '883', '419', '937', '177', '145', '438']
+data read 0.34993481636
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+item 120
+item 883
+item 419
+item 937
+item 177
+item 145
+item 438
+patternschecked: 1809
+process done 20.3783068657
+filename--- ./outputs/synthetic/synthetic_50K_0.045_0.3_0.15_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494', '120', '883', '419', '937', '177', '145', '438']
+data read 0.36268901825
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+item 120
+item 883
+item 419
+item 937
+item 177
+item 145
+item 438
+patternschecked: 5674
+process done 63.1628229618
+filename--- ./outputs/synthetic/synthetic_50K_0.045_0.3_0.2_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494', '120', '883', '419', '937', '177', '145', '438']
+data read 0.342571973801
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+item 120
+item 883
+item 419
+item 937
+item 177
+item 145
+item 438
+patternschecked: 13452
+process done 151.291539907
+filename--- ./outputs/synthetic/synthetic_50K_0.045_0.3_0.25_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494', '120', '883', '419', '937', '177', '145', '438']
+data read 0.34415102005
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+item 120
+item 883
+item 419
+item 937
+item 177
+item 145
+item 438
+patternschecked: 28037
+process done 320.005158901
+filename--- ./outputs/synthetic/synthetic_50K_0.045_0.3_0.3_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494', '120', '883', '419', '937', '177', '145', '438']
+data read 0.340636014938
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+item 120
+item 883
+item 419
+item 937
+item 177
+item 145
+item 438
+patternschecked: 51408
+process done 596.931579828
+filename--- ./outputs/synthetic/synthetic_50K_0.0475_0.3_0.05_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494', '120', '883', '419']
+data read 0.340078115463
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+item 120
+item 883
+item 419
+patternschecked: 165
+process done 2.24313092232
+filename--- ./outputs/synthetic/synthetic_50K_0.0475_0.3_0.1_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494', '120', '883', '419']
+data read 0.341107130051
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+item 120
+item 883
+item 419
+patternschecked: 565
+process done 6.78905916214
+filename--- ./outputs/synthetic/synthetic_50K_0.0475_0.3_0.15_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494', '120', '883', '419']
+data read 0.348954916
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+item 120
+item 883
+item 419
+patternschecked: 1288
+process done 15.4690840244
+filename--- ./outputs/synthetic/synthetic_50K_0.0475_0.3_0.2_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494', '120', '883', '419']
+data read 0.343939065933
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+item 120
+item 883
+item 419
+patternschecked: 2333
+process done 28.741106987
+filename--- ./outputs/synthetic/synthetic_50K_0.0475_0.3_0.25_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494', '120', '883', '419']
+data read 0.339186906815
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+item 120
+item 883
+item 419
+patternschecked: 3561
+process done 46.2352750301
+filename--- ./outputs/synthetic/synthetic_50K_0.0475_0.3_0.3_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494', '120', '883', '419']
+data read 0.353202819824
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+item 120
+item 883
+item 419
+patternschecked: 5207
+process done 69.8979179859
+filename--- ./outputs/synthetic/synthetic_50K_0.05_0.3_0.05_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494']
+data read 0.356645822525
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+patternschecked: 67
+process done 1.19883298874
+filename--- ./outputs/synthetic/synthetic_50K_0.05_0.3_0.1_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494']
+data read 0.344177007675
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+patternschecked: 187
+process done 2.66913485527
+filename--- ./outputs/synthetic/synthetic_50K_0.05_0.3_0.15_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494']
+data read 0.345414876938
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+patternschecked: 347
+process done 4.59777498245
+filename--- ./outputs/synthetic/synthetic_50K_0.05_0.3_0.2_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494']
+data read 0.348952054977
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+patternschecked: 546
+process done 6.96852421761
+filename--- ./outputs/synthetic/synthetic_50K_0.05_0.3_0.25_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494']
+data read 0.344825029373
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+patternschecked: 689
+process done 8.81671714783
+filename--- ./outputs/synthetic/synthetic_50K_0.05_0.3_0.3_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684', '692', '494']
+data read 0.345444202423
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+item 692
+item 494
+patternschecked: 876
+process done 11.1769330502
+filename--- ./outputs/synthetic/synthetic_50K_0.0525_0.3_0.05_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684']
+data read 0.339323997498
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+patternschecked: 36
+process done 0.782804012299
+filename--- ./outputs/synthetic/synthetic_50K_0.0525_0.3_0.1_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684']
+data read 0.343425035477
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+patternschecked: 88
+process done 1.41921401024
+filename--- ./outputs/synthetic/synthetic_50K_0.0525_0.3_0.15_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684']
+data read 0.341838121414
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+patternschecked: 135
+process done 2.03507614136
+filename--- ./outputs/synthetic/synthetic_50K_0.0525_0.3_0.2_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684']
+data read 0.342473983765
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+patternschecked: 188
+process done 2.72636389732
+filename--- ./outputs/synthetic/synthetic_50K_0.0525_0.3_0.25_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684']
+data read 0.339775800705
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+patternschecked: 208
+process done 3.06002783775
+filename--- ./outputs/synthetic/synthetic_50K_0.0525_0.3_0.3_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722', '217', '684']
+data read 0.342412948608
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+item 217
+item 684
+patternschecked: 246
+process done 3.55655503273
+filename--- ./outputs/synthetic/synthetic_50K_0.055_0.3_0.05_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722']
+data read 0.342486858368
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+patternschecked: 18
+process done 0.576862812042
+filename--- ./outputs/synthetic/synthetic_50K_0.055_0.3_0.1_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722']
+data read 0.337396860123
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+patternschecked: 35
+process done 0.80424785614
+filename--- ./outputs/synthetic/synthetic_50K_0.055_0.3_0.15_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722']
+data read 0.337797880173
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+patternschecked: 41
+process done 0.916244029999
+filename--- ./outputs/synthetic/synthetic_50K_0.055_0.3_0.2_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722']
+data read 0.337006092072
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+patternschecked: 50
+process done 1.03990292549
+filename--- ./outputs/synthetic/synthetic_50K_0.055_0.3_0.25_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722']
+data read 0.343319892883
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+patternschecked: 50
+process done 1.06531190872
+filename--- ./outputs/synthetic/synthetic_50K_0.055_0.3_0.3_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722']
+data read 0.33781003952
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+patternschecked: 57
+process done 1.14061403275
+filename--- ./outputs/synthetic/synthetic_50K_0.0575_0.3_0.05_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722']
+data read 0.335916042328
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+patternschecked: 18
+process done 0.570195913315
+filename--- ./outputs/synthetic/synthetic_50K_0.0575_0.3_0.1_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722']
+data read 0.339620828629
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+patternschecked: 35
+process done 0.808178901672
+filename--- ./outputs/synthetic/synthetic_50K_0.0575_0.3_0.15_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722']
+data read 0.337415933609
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+patternschecked: 41
+process done 0.915880918503
+filename--- ./outputs/synthetic/synthetic_50K_0.0575_0.3_0.2_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722']
+data read 0.33676815033
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+patternschecked: 50
+process done 1.04422402382
+filename--- ./outputs/synthetic/synthetic_50K_0.0575_0.3_0.25_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722']
+data read 0.338619947433
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+patternschecked: 50
+process done 1.04940795898
+filename--- ./outputs/synthetic/synthetic_50K_0.0575_0.3_0.3_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766', '354', '722']
+data read 0.338922977448
+item 368
+item 529
+item 829
+item 766
+item 354
+item 722
+patternschecked: 57
+process done 1.13984298706
+filename--- ./outputs/synthetic/synthetic_50K_0.06_0.3_0.05_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766']
+data read 0.332592964172
+item 368
+item 529
+item 829
+item 766
+patternschecked: 6
+process done 0.42649102211
+filename--- ./outputs/synthetic/synthetic_50K_0.06_0.3_0.1_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766']
+data read 0.334249973297
+item 368
+item 529
+item 829
+item 766
+patternschecked: 9
+process done 0.468288898468
+filename--- ./outputs/synthetic/synthetic_50K_0.06_0.3_0.15_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766']
+data read 0.332415819168
+item 368
+item 529
+item 829
+item 766
+patternschecked: 9
+process done 0.471906900406
+filename--- ./outputs/synthetic/synthetic_50K_0.06_0.3_0.2_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766']
+data read 0.333206176758
+item 368
+item 529
+item 829
+item 766
+patternschecked: 10
+process done 0.488299131393
+filename--- ./outputs/synthetic/synthetic_50K_0.06_0.3_0.25_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766']
+data read 0.332752943039
+item 368
+item 529
+item 829
+item 766
+patternschecked: 10
+process done 0.488684892654
+filename--- ./outputs/synthetic/synthetic_50K_0.06_0.3_0.3_nonoverlappatterns.csv
+frequent items: ['368', '529', '829', '766']
+data read 0.330027103424
+item 368
+item 529
+item 829
+item 766
+patternschecked: 11
+process done 0.494765043259
+filename--- ./outputs/synthetic/synthetic_50K_0.0625_0.3_0.05_nonoverlappatterns.csv
+frequent items: ['368', '529', '829']
+data read 0.331471920013
+item 368
+item 529
+item 829
+patternschecked: 3
+process done 0.378226041794
+filename--- ./outputs/synthetic/synthetic_50K_0.0625_0.3_0.1_nonoverlappatterns.csv
+frequent items: ['368', '529', '829']
+data read 0.327793121338
+item 368
+item 529
+item 829
+patternschecked: 4
+process done 0.38782119751
+filename--- ./outputs/synthetic/synthetic_50K_0.0625_0.3_0.15_nonoverlappatterns.csv
+frequent items: ['368', '529', '829']
+data read 0.33087182045
+item 368
+item 529
+item 829
+patternschecked: 4
+process done 0.390145778656
+filename--- ./outputs/synthetic/synthetic_50K_0.0625_0.3_0.2_nonoverlappatterns.csv
+frequent items: ['368', '529', '829']
+data read 0.330105066299
+item 368
+item 529
+item 829
+patternschecked: 4
+process done 0.394693136215
+filename--- ./outputs/synthetic/synthetic_50K_0.0625_0.3_0.25_nonoverlappatterns.csv
+frequent items: ['368', '529', '829']
+data read 0.337750911713
+item 368
+item 529
+item 829
+patternschecked: 4
+process done 0.403962850571
+filename--- ./outputs/synthetic/synthetic_50K_0.0625_0.3_0.3_nonoverlappatterns.csv
+frequent items: ['368', '529', '829']
+data read 0.331319093704
+item 368
+item 529
+item 829
+patternschecked: 4
+process done 0.399116039276
+filename--- ./outputs/synthetic/synthetic_50K_0.065_0.3_0.05_nonoverlappatterns.csv
+frequent items: ['368', '529', '829']
+data read 0.336101055145
+item 368
+item 529
+item 829
+patternschecked: 3
+process done 0.383795976639
+filename--- ./outputs/synthetic/synthetic_50K_0.065_0.3_0.1_nonoverlappatterns.csv
+frequent items: ['368', '529', '829']
+data read 0.333673000336
+item 368
+item 529
+item 829
+patternschecked: 4
+process done 0.393718957901
+filename--- ./outputs/synthetic/synthetic_50K_0.065_0.3_0.15_nonoverlappatterns.csv
+frequent items: ['368', '529', '829']
+data read 0.331640958786
+item 368
+item 529
+item 829
+patternschecked: 4
+process done 0.390876054764
+filename--- ./outputs/synthetic/synthetic_50K_0.065_0.3_0.2_nonoverlappatterns.csv
+frequent items: ['368', '529', '829']
+data read 0.332680940628
+item 368
+item 529
+item 829
+patternschecked: 4
+process done 0.397776126862
+filename--- ./outputs/synthetic/synthetic_50K_0.065_0.3_0.25_nonoverlappatterns.csv
+frequent items: ['368', '529', '829']
+data read 0.330460071564
+item 368
+item 529
+item 829
+patternschecked: 4
+process done 0.396401882172
+filename--- ./outputs/synthetic/synthetic_50K_0.065_0.3_0.3_nonoverlappatterns.csv
+frequent items: ['368', '529', '829']
+data read 0.332737922668
+item 368
+item 529
+item 829
+patternschecked: 4
+process done 0.400641918182
+filename--- ./outputs/synthetic/synthetic_50K_0.0675_0.3_0.05_nonoverlappatterns.csv
+frequent items: ['368', '529', '829']
+data read 0.331229925156
+item 368
+item 529
+item 829
+patternschecked: 3
+process done 0.378266811371
+filename--- ./outputs/synthetic/synthetic_50K_0.0675_0.3_0.1_nonoverlappatterns.csv
+frequent items: ['368', '529', '829']
+data read 0.331959009171
+item 368
+item 529
+item 829
+patternschecked: 4
+process done 0.392030000687
+filename--- ./outputs/synthetic/synthetic_50K_0.0675_0.3_0.15_nonoverlappatterns.csv
+frequent items: ['368', '529', '829']
+data read 0.33073592186
+item 368
+item 529
+item 829
+patternschecked: 4
+process done 0.391065120697
+filename--- ./outputs/synthetic/synthetic_50K_0.0675_0.3_0.2_nonoverlappatterns.csv
+frequent items: ['368', '529', '829']
+data read 0.33679318428
+item 368
+item 529
+item 829
+patternschecked: 4
+process done 0.403559207916
+filename--- ./outputs/synthetic/synthetic_50K_0.0675_0.3_0.25_nonoverlappatterns.csv
+frequent items: ['368', '529', '829']
+data read 0.333177089691
+item 368
+item 529
+item 829
+patternschecked: 4
+process done 0.399654150009
+filename--- ./outputs/synthetic/synthetic_50K_0.0675_0.3_0.3_nonoverlappatterns.csv
+frequent items: ['368', '529', '829']
+data read 0.33351111412
+item 368
+item 529
+item 829
+patternschecked: 4
+process done 0.402677059174
+filename--- ./outputs/synthetic/synthetic_50K_0.07_0.3_0.05_nonoverlappatterns.csv
+frequent items: ['368', '529']
+data read 0.325891017914
+item 368
+item 529
+patternschecked: 1
+process done 0.346686124802
+filename--- ./outputs/synthetic/synthetic_50K_0.07_0.3_0.1_nonoverlappatterns.csv
+frequent items: ['368', '529']
+data read 0.324135065079
+item 368
+item 529
+patternschecked: 1
+process done 0.347566127777
+filename--- ./outputs/synthetic/synthetic_50K_0.07_0.3_0.15_nonoverlappatterns.csv
+frequent items: ['368', '529']
+data read 0.325147867203
+item 368
+item 529
+patternschecked: 1
+process done 0.348608970642
+filename--- ./outputs/synthetic/synthetic_50K_0.07_0.3_0.2_nonoverlappatterns.csv
+frequent items: ['368', '529']
+data read 0.327661991119
+item 368
+item 529
+patternschecked: 1
+process done 0.351608991623
+filename--- ./outputs/synthetic/synthetic_50K_0.07_0.3_0.25_nonoverlappatterns.csv
+frequent items: ['368', '529']
+data read 0.324961900711
+item 368
+item 529
+patternschecked: 1
+process done 0.348303794861
+filename--- ./outputs/synthetic/synthetic_50K_0.07_0.3_0.3_nonoverlappatterns.csv
+frequent items: ['368', '529']
+data read 0.32592010498
+item 368
+item 529
+patternschecked: 1
+process done 0.349407911301

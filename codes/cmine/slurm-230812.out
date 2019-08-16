@@ -1,0 +1,61 @@
+minRF: 0.04 minCS: 0.3 maxOR: 0.05 outfile ././outputs/synthetic/synthetic_0.04_0.3_0.05_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.04_0.3_0.05_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120', '883', '937', '177', '145', '438', '460', '362', '789', '39', '32', '470', '682', '283', '914', '538']
+data read 0.292146921158
+length 1 27
+length 2 209
+process done 61.4779989719
+minRF: 0.04 minCS: 0.3 maxOR: 0.1 outfile ././outputs/synthetic/synthetic_0.04_0.3_0.1_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.04_0.3_0.1_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120', '883', '937', '177', '145', '438', '460', '362', '789', '39', '32', '470', '682', '283', '914', '538']
+data read 0.205192089081
+length 1 27
+length 2 322
+length 3 1485
+length 4 1023
+process done 410.705798149
+minRF: 0.04 minCS: 0.3 maxOR: 0.15 outfile ././outputs/synthetic/synthetic_0.04_0.3_0.15_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.04_0.3_0.15_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120', '883', '937', '177', '145', '438', '460', '362', '789', '39', '32', '470', '682', '283', '914', '538']
+data read 0.191556930542
+length 1 27
+length 2 341
+length 3 2499
+length 4 8786
+length 5 8177
+length 6 819
+process done 2665.16176486
+minRF: 0.04 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.04_0.3_0.2_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.04_0.3_0.2_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120', '883', '937', '177', '145', '438', '460', '362', '789', '39', '32', '470', '682', '283', '914', '538']
+data read 0.1880838871
+length 1 27
+length 2 348
+length 3 2763
+length 4 14288
+length 5 40524
+length 6 42033
+length 7 9310
+length 8 170
+process done 13809.379432
+minRF: 0.04 minCS: 0.3 maxOR: 0.25 outfile ././outputs/synthetic/synthetic_0.04_0.3_0.25_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.04_0.3_0.25_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120', '883', '937', '177', '145', '438', '460', '362', '789', '39', '32', '470', '682', '283', '914', '538']
+data read 0.19020485878
+length 1 27
+length 2 349
+length 3 2850
+length 4 16213
+length 5 64433
+length 6 158318
+length 7 176128
+length 8 57697
+length 9 3285
+length 10 15
+process done 59861.4298389
+slurmstepd: *** JOB 230812 ON gnode40 CANCELLED AT 2019-04-19T11:38:39 DUE TO TIME LIMIT ***

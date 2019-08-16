@@ -1,0 +1,8 @@
+type_of_algo,minRF,minCS,maxOR,inpfile,outfile,data_read,patterns_checked,process_done
+cmine,0.065,0.5,0.6,./../dataset/bmspos/bmspos_1.25L.txt,././outputs/bmspos/bmspos_0.065_0.5_0.6_bmspos_final_1.25L.txt,0.268784,9022,695.744878
+cmine,0.07,0.5,0.6,./../dataset/bmspos/bmspos_1.25L.txt,././outputs/bmspos/bmspos_0.07_0.5_0.6_bmspos_final_1.25L.txt,0.273177,6417,477.592787
+cmine,0.075,0.5,0.6,./../dataset/bmspos/bmspos_1.25L.txt,././outputs/bmspos/bmspos_0.075_0.5_0.6_bmspos_final_1.25L.txt,0.283473,6417,482.315382
+cmine,0.08,0.5,0.6,./../dataset/bmspos/bmspos_1.25L.txt,././outputs/bmspos/bmspos_0.08_0.5_0.6_bmspos_final_1.25L.txt,0.272888,4353,316.755747
+cmine,0.085,0.5,0.6,./../dataset/bmspos/bmspos_1.25L.txt,././outputs/bmspos/bmspos_0.085_0.5_0.6_bmspos_final_1.25L.txt,0.266913,467,31.60766
+cmine,0.09,0.5,0.6,./../dataset/bmspos/bmspos_1.25L.txt,././outputs/bmspos/bmspos_0.09_0.5_0.6_bmspos_final_1.25L.txt,0.270374,259,17.823336
+cmine,0.095,0.5,0.6,./../dataset/bmspos/bmspos_1.25L.txt,././outputs/bmspos/bmspos_0.095_0.5_0.6_bmspos_final_1.25L.txt,0.281088,259,17.692199

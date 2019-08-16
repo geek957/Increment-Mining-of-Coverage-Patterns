@@ -1,0 +1,17 @@
+type_of_algo,minRF,minCS,maxOR,increment,inpfile,outfile,candidate_old,candidate_new,process_done
+cmine_increment,0.045,0.3,0.05,25,../dataset/synthetic/synthetic_increment_25K.txt,./outputs/synthetic/synthetic_25_0.045_0.3_0.05_test_out.txt,19,1034,5.312513
+cmine_increment,0.045,0.3,0.1,25,../dataset/synthetic/synthetic_increment_25K.txt,./outputs/synthetic/synthetic_25_0.045_0.3_0.1_test_out.txt,96,1408,10.268994
+cmine_increment,0.045,0.3,0.15,25,../dataset/synthetic/synthetic_increment_25K.txt,./outputs/synthetic/synthetic_25_0.045_0.3_0.15_test_out.txt,293,2142,24.29569
+cmine_increment,0.045,0.3,0.2,25,../dataset/synthetic/synthetic_increment_25K.txt,./outputs/synthetic/synthetic_25_0.045_0.3_0.2_test_out.txt,801,3477,58.548195
+cmine_increment,0.045,0.3,0.25,25,../dataset/synthetic/synthetic_increment_25K.txt,./outputs/synthetic/synthetic_25_0.045_0.3_0.25_test_out.txt,1572,5346,131.072587
+cmine_increment,0.045,0.3,0.3,25,../dataset/synthetic/synthetic_increment_25K.txt,./outputs/synthetic/synthetic_25_0.045_0.3_0.3_test_out.txt,2707,7566,271.342369
+cmine_increment,0.045,0.3,0.2,5,../dataset/synthetic/synthetic_increment_5K.txt,./outputs/synthetic/synthetic_5_0.045_0.3_0.2_test_out.txt,1326,3797,30.353506
+cmine_increment,0.045,0.3,0.2,10,../dataset/synthetic/synthetic_increment_10K.txt,./outputs/synthetic/synthetic_10_0.045_0.3_0.2_test_out.txt,783,3518,31.538547
+cmine_increment,0.045,0.3,0.2,15,../dataset/synthetic/synthetic_increment_15K.txt,./outputs/synthetic/synthetic_15_0.045_0.3_0.2_test_out.txt,1452,3950,49.457287
+cmine_increment,0.045,0.3,0.2,20,../dataset/synthetic/synthetic_increment_20K.txt,./outputs/synthetic/synthetic_20_0.045_0.3_0.2_test_out.txt,1357,3920,58.112038
+cmine_increment,0.045,0.3,0.2,25,../dataset/synthetic/synthetic_increment_25K.txt,./outputs/synthetic/synthetic_25_0.045_0.3_0.2_test_out.txt,801,3477,58.092178
+cmine_increment,0.045,0.3,0.2,30,../dataset/synthetic/synthetic_increment_30K.txt,./outputs/synthetic/synthetic_30_0.045_0.3_0.2_test_out.txt,908,4169,87.208293
+cmine_increment,0.045,0.3,0.2,35,../dataset/synthetic/synthetic_increment_35K.txt,./outputs/synthetic/synthetic_35_0.045_0.3_0.2_test_out.txt,1303,4449,103.932141
+cmine_increment,0.045,0.3,0.2,40,../dataset/synthetic/synthetic_increment_40K.txt,./outputs/synthetic/synthetic_40_0.045_0.3_0.2_test_out.txt,1296,4518,118.810583
+cmine_increment,0.045,0.3,0.2,45,../dataset/synthetic/synthetic_increment_45K.txt,./outputs/synthetic/synthetic_45_0.045_0.3_0.2_test_out.txt,993,4281,125.733882
+cmine_increment,0.045,0.3,0.2,50,../dataset/synthetic/synthetic_increment_50K.txt,./outputs/synthetic/synthetic_50_0.045_0.3_0.2_test_out.txt,980,4274,138.106409

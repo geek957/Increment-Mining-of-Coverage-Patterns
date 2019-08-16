@@ -1,0 +1,1940 @@
+minRF: 0.065 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.05L.txt
+././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.05L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62', '92', '11']
+data read 0.270631790161
+length 1 19
+length 2 155
+length 3 812
+length 4 2969
+length 5 7695
+length 6 12442
+length 7 10141
+length 8 3914
+length 9 554
+length 10 30
+process done 3049.90944791
+minRF: 0.065 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.1L.txt
+././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.1L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '63', '65', '23', '81', '62', '92', '11', '53']
+data read 0.285283088684
+length 1 20
+length 2 173
+length 3 965
+length 4 3773
+length 5 10329
+length 6 17061
+length 7 13995
+length 8 5283
+length 9 648
+length 10 23
+process done 4447.24375701
+minRF: 0.065 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.15L.txt
+././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.15L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '63', '65', '81', '23', '62', '92', '11', '53', '70']
+data read 0.324876785278
+length 1 21
+length 2 192
+length 3 1136
+length 4 4731
+length 5 14005
+length 6 26488
+length 7 27348
+length 8 15270
+length 9 3348
+length 10 303
+length 11 1
+process done 8821.53755999
+minRF: 0.065 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.2L.txt
+././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.2L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '65', '63', '81', '23', '62', '92']
+data read 0.322190999985
+length 1 18
+length 2 138
+length 3 676
+length 4 2289
+length 5 5430
+length 6 7485
+length 7 4762
+length 8 819
+length 9 32
+process done 2095.32076716
+minRF: 0.065 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.25L.txt
+././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.25L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '65', '63', '81', '23', '62', '92']
+data read 0.291901111603
+length 1 18
+length 2 138
+length 3 676
+length 4 2294
+length 5 5468
+length 6 7843
+length 7 5169
+length 8 1045
+length 9 43
+process done 2265.96644115
+minRF: 0.065 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.3L.txt
+././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.3L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '65', '63', '81', '23', '62', '53', '92']
+data read 0.321829080582
+length 1 19
+length 2 155
+length 3 812
+length 4 2965
+length 5 7549
+length 6 11418
+length 7 7970
+length 8 2001
+length 9 132
+process done 3634.47117901
+minRF: 0.065 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.35L.txt
+././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.35L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '65', '63', '81', '23', '62']
+data read 0.351000785828
+length 1 17
+length 2 122
+length 3 556
+length 4 1744
+length 5 3847
+length 6 5278
+length 7 3206
+length 8 592
+length 9 22
+process done 1619.38790989
+minRF: 0.065 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.4L.txt
+././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.4L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '65', '63', '23', '81', '62']
+data read 0.714140892029
+length 1 17
+length 2 122
+length 3 556
+length 4 1744
+length 5 3851
+length 6 5286
+length 7 3132
+length 8 510
+length 9 14
+process done 1644.54585886
+minRF: 0.065 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.45L.txt
+././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.45L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '65', '63', '23', '81', '62']
+data read 0.357217073441
+length 1 17
+length 2 122
+length 3 556
+length 4 1745
+length 5 3861
+length 6 5360
+length 7 3260
+length 8 558
+length 9 15
+process done 1633.85132384
+minRF: 0.065 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.5L.txt
+././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.5L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '65', '63', '23', '81', '62']
+data read 0.410653114319
+length 1 17
+length 2 122
+length 3 556
+length 4 1744
+length 5 3860
+length 6 5375
+length 7 3307
+length 8 572
+length 9 16
+process done 1713.87648106
+minRF: 0.065 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.55L.txt
+././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.55L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '36', '63', '23', '81', '62']
+data read 0.363955974579
+length 1 17
+length 2 122
+length 3 556
+length 4 1746
+length 5 3879
+length 6 5480
+length 7 3463
+length 8 630
+length 9 18
+process done 1746.18482113
+minRF: 0.065 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.6L.txt
+././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.6L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '36', '63', '23', '81', '62']
+data read 0.383979082108
+length 1 17
+length 2 122
+length 3 556
+length 4 1744
+length 5 3860
+length 6 5300
+length 7 3116
+length 8 499
+length 9 8
+process done 1756.25885701
+minRF: 0.065 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.65L.txt
+././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.65L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36', '23', '81', '62']
+data read 0.416883945465
+length 1 17
+length 2 122
+length 3 556
+length 4 1746
+length 5 3876
+length 6 5427
+length 7 3300
+length 8 561
+length 9 13
+process done 1957.83821106
+minRF: 0.065 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.7L.txt
+././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.7L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36', '23', '81', '62']
+data read 0.940231084824
+length 1 17
+length 2 122
+length 3 558
+length 4 1753
+length 5 3887
+length 6 5495
+length 7 3457
+length 8 628
+length 9 20
+process done 1924.56108308
+minRF: 0.065 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.75L.txt
+././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.75L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36', '23', '81', '62']
+data read 0.411427974701
+length 1 17
+length 2 122
+length 3 556
+length 4 1749
+length 5 3887
+length 6 5549
+length 7 3581
+length 8 674
+length 9 24
+process done 2113.43136501
+minRF: 0.065 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.8L.txt
+././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.8L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36', '23', '81', '62']
+data read 0.394915103912
+length 1 17
+length 2 122
+length 3 556
+length 4 1748
+length 5 3888
+length 6 5557
+length 7 3593
+length 8 687
+length 9 26
+process done 2060.99811697
+minRF: 0.065 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.85L.txt
+././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.85L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36', '23', '81', '62']
+data read 0.430212020874
+length 1 17
+length 2 122
+length 3 558
+length 4 1753
+length 5 3896
+length 6 5651
+length 7 3861
+length 8 812
+length 9 30
+process done 2205.2181561
+minRF: 0.065 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.9L.txt
+././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.9L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36', '23', '81', '62']
+data read 0.42923116684
+length 1 17
+length 2 122
+length 3 558
+length 4 1753
+length 5 3895
+length 6 5669
+length 7 3928
+length 8 843
+length 9 32
+process done 2319.73277712
+minRF: 0.065 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.95L.txt
+././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_1.95L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36', '23', '81', '62']
+data read 0.459250926971
+length 1 17
+length 2 122
+length 3 558
+length 4 1751
+length 5 3890
+length 6 5634
+length 7 3800
+length 8 774
+length 9 28
+process done 2304.17737389
+minRF: 0.065 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_2.0L.txt
+././outputs/bmspos/bmspos_0.065_0.5_0.7_bmspos_final_2.0L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36', '23', '81', '62']
+data read 0.499627113342
+length 1 17
+length 2 122
+length 3 558
+length 4 1751
+length 5 3889
+length 6 5626
+length 7 3763
+length 8 757
+length 9 28
+process done 2355.72178102
+minRF: 0.07 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.05L.txt
+././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.05L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62']
+data read 0.209850072861
+length 1 17
+length 2 122
+length 3 556
+length 4 1742
+length 5 3835
+length 6 5167
+length 7 2818
+length 8 390
+length 9 4
+process done 1144.88156796
+minRF: 0.07 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.1L.txt
+././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.1L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '63', '65', '23', '81', '62']
+data read 0.21305680275
+length 1 17
+length 2 122
+length 3 556
+length 4 1740
+length 5 3813
+length 6 4974
+length 7 2541
+length 8 318
+length 9 1
+process done 1137.46702194
+minRF: 0.07 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.15L.txt
+././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.15L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '63', '65', '81', '23', '62']
+data read 0.245249032974
+length 1 17
+length 2 122
+length 3 556
+length 4 1736
+length 5 3784
+length 6 4861
+length 7 2510
+length 8 344
+length 9 9
+process done 1216.41060591
+minRF: 0.07 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.2L.txt
+././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.2L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '65', '63', '81', '23', '62']
+data read 0.2318379879
+length 1 17
+length 2 122
+length 3 556
+length 4 1737
+length 5 3802
+length 6 4989
+length 7 2722
+length 8 406
+length 9 10
+process done 1273.33617687
+minRF: 0.07 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.25L.txt
+././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.25L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '65', '63', '81', '23', '62']
+data read 0.25017285347
+length 1 17
+length 2 122
+length 3 556
+length 4 1741
+length 5 3829
+length 6 5193
+length 7 3024
+length 8 511
+length 9 12
+process done 1366.46059394
+minRF: 0.07 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.3L.txt
+././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.3L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '65', '63', '81', '23', '62']
+data read 0.260442018509
+length 1 17
+length 2 122
+length 3 556
+length 4 1741
+length 5 3834
+length 6 5208
+length 7 3053
+length 8 519
+length 9 14
+process done 1480.77787209
+minRF: 0.07 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.35L.txt
+././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.35L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '65', '63', '81', '23', '62']
+data read 0.259022951126
+length 1 17
+length 2 122
+length 3 556
+length 4 1744
+length 5 3847
+length 6 5278
+length 7 3206
+length 8 592
+length 9 22
+process done 1570.63973594
+minRF: 0.07 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.4L.txt
+././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.4L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '65', '63', '23', '81', '62']
+data read 0.280068874359
+length 1 17
+length 2 122
+length 3 556
+length 4 1744
+length 5 3851
+length 6 5286
+length 7 3132
+length 8 510
+length 9 14
+process done 1533.59328103
+minRF: 0.07 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.45L.txt
+././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.45L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '65', '63', '23', '81', '62']
+data read 0.274604082108
+length 1 17
+length 2 122
+length 3 556
+length 4 1745
+length 5 3861
+length 6 5360
+length 7 3260
+length 8 558
+length 9 15
+process done 1667.06678605
+minRF: 0.07 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.5L.txt
+././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.5L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '65', '63', '23', '81', '62']
+data read 0.287134170532
+length 1 17
+length 2 122
+length 3 556
+length 4 1744
+length 5 3860
+length 6 5375
+length 7 3307
+length 8 572
+length 9 16
+process done 1697.61459708
+minRF: 0.07 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.55L.txt
+././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.55L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '36', '63', '23', '81', '62']
+data read 0.292226076126
+length 1 17
+length 2 122
+length 3 556
+length 4 1746
+length 5 3879
+length 6 5480
+length 7 3463
+length 8 630
+length 9 18
+process done 1750.92088294
+minRF: 0.07 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.6L.txt
+././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.6L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '36', '63', '23', '81', '62']
+data read 0.306253910065
+length 1 17
+length 2 122
+length 3 556
+length 4 1744
+length 5 3860
+length 6 5300
+length 7 3116
+length 8 499
+length 9 8
+process done 1825.06689286
+minRF: 0.07 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.65L.txt
+././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.65L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36', '23', '81', '62']
+data read 0.310961961746
+length 1 17
+length 2 122
+length 3 556
+length 4 1746
+length 5 3876
+length 6 5427
+length 7 3300
+length 8 561
+length 9 13
+process done 1832.21857405
+minRF: 0.07 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.7L.txt
+././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.7L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36', '23', '81', '62']
+data read 0.32294011116
+length 1 17
+length 2 122
+length 3 558
+length 4 1753
+length 5 3887
+length 6 5495
+length 7 3457
+length 8 628
+length 9 20
+process done 1929.68551207
+minRF: 0.07 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.75L.txt
+././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.75L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36', '23', '81', '62']
+data read 0.331070899963
+length 1 17
+length 2 122
+length 3 556
+length 4 1749
+length 5 3887
+length 6 5549
+length 7 3581
+length 8 674
+length 9 24
+process done 2046.92398787
+minRF: 0.07 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.8L.txt
+././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.8L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36', '23', '81', '62']
+data read 0.349920988083
+length 1 17
+length 2 122
+length 3 556
+length 4 1748
+length 5 3888
+length 6 5557
+length 7 3593
+length 8 687
+length 9 26
+process done 2094.77154994
+minRF: 0.07 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.85L.txt
+././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.85L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36', '23', '81', '62']
+data read 0.345782995224
+length 1 17
+length 2 122
+length 3 558
+length 4 1753
+length 5 3896
+length 6 5651
+length 7 3861
+length 8 812
+length 9 30
+process done 2275.22701001
+minRF: 0.07 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.9L.txt
+././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.9L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36', '23', '81', '62']
+data read 0.356230020523
+length 1 17
+length 2 122
+length 3 558
+length 4 1753
+length 5 3895
+length 6 5669
+length 7 3928
+length 8 843
+length 9 32
+process done 2281.07638693
+minRF: 0.07 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.95L.txt
+././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_1.95L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36', '23', '81', '62']
+data read 0.36931180954
+length 1 17
+length 2 122
+length 3 558
+length 4 1751
+length 5 3890
+length 6 5634
+length 7 3800
+length 8 774
+length 9 28
+process done 2297.30264878
+minRF: 0.07 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_2.0L.txt
+././outputs/bmspos/bmspos_0.07_0.5_0.7_bmspos_final_2.0L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36', '23', '81', '62']
+data read 0.376652002335
+length 1 17
+length 2 122
+length 3 558
+length 4 1751
+length 5 3889
+length 6 5626
+length 7 3763
+length 8 757
+length 9 28
+process done 2348.27548003
+minRF: 0.075 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.05L.txt
+././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.05L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81', '62']
+data read 0.20938706398
+length 1 17
+length 2 122
+length 3 556
+length 4 1742
+length 5 3835
+length 6 5167
+length 7 2818
+length 8 390
+length 9 4
+process done 1155.86053014
+minRF: 0.075 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.1L.txt
+././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.1L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '63', '65', '23', '81', '62']
+data read 0.212765932083
+length 1 17
+length 2 122
+length 3 556
+length 4 1740
+length 5 3813
+length 6 4974
+length 7 2541
+length 8 318
+length 9 1
+process done 1136.42915201
+minRF: 0.075 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.15L.txt
+././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.15L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '63', '65', '81', '23', '62']
+data read 0.221868991852
+length 1 17
+length 2 122
+length 3 556
+length 4 1736
+length 5 3784
+length 6 4861
+length 7 2510
+length 8 344
+length 9 9
+process done 1232.77106214
+minRF: 0.075 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.2L.txt
+././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.2L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '65', '63', '81', '23', '62']
+data read 0.234268188477
+length 1 17
+length 2 122
+length 3 556
+length 4 1737
+length 5 3802
+length 6 4989
+length 7 2722
+length 8 406
+length 9 10
+process done 1274.09981513
+minRF: 0.075 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.25L.txt
+././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.25L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '65', '63', '81', '23', '62']
+data read 0.257858037949
+length 1 17
+length 2 122
+length 3 556
+length 4 1741
+length 5 3829
+length 6 5193
+length 7 3024
+length 8 511
+length 9 12
+process done 1429.50564718
+minRF: 0.075 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.3L.txt
+././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.3L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '65', '63', '81', '23', '62']
+data read 0.259321928024
+length 1 17
+length 2 122
+length 3 556
+length 4 1741
+length 5 3834
+length 6 5208
+length 7 3053
+length 8 519
+length 9 14
+process done 1425.97866201
+minRF: 0.075 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.35L.txt
+././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.35L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '65', '63', '81', '23', '62']
+data read 0.259471893311
+length 1 17
+length 2 122
+length 3 556
+length 4 1744
+length 5 3847
+length 6 5278
+length 7 3206
+length 8 592
+length 9 22
+process done 1504.67797995
+minRF: 0.075 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.4L.txt
+././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.4L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '65', '63', '23', '81', '62']
+data read 0.268183946609
+length 1 17
+length 2 122
+length 3 556
+length 4 1744
+length 5 3851
+length 6 5286
+length 7 3132
+length 8 510
+length 9 14
+process done 1593.13085508
+minRF: 0.075 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.45L.txt
+././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.45L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '65', '63', '23', '81']
+data read 0.274095058441
+length 1 16
+length 2 107
+length 3 451
+length 4 1294
+length 5 2579
+length 6 3327
+length 7 2134
+length 8 443
+length 9 15
+process done 967.224452972
+minRF: 0.075 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.5L.txt
+././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.5L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '65', '63', '23', '81']
+data read 0.312835931778
+length 1 16
+length 2 107
+length 3 451
+length 4 1293
+length 5 2579
+length 6 3335
+length 7 2162
+length 8 451
+length 9 16
+process done 1008.5866909
+minRF: 0.075 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.55L.txt
+././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.55L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '36', '63', '23', '81']
+data read 0.300355911255
+length 1 16
+length 2 107
+length 3 451
+length 4 1295
+length 5 2593
+length 6 3365
+length 7 2208
+length 8 487
+length 9 18
+process done 1048.96873498
+minRF: 0.075 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.6L.txt
+././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.6L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '36', '63', '23', '81', '62']
+data read 0.303872108459
+length 1 17
+length 2 122
+length 3 556
+length 4 1744
+length 5 3860
+length 6 5300
+length 7 3116
+length 8 499
+length 9 8
+process done 1750.67653108
+minRF: 0.075 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.65L.txt
+././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.65L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36', '23', '81', '62']
+data read 0.320686101913
+length 1 17
+length 2 122
+length 3 556
+length 4 1746
+length 5 3876
+length 6 5427
+length 7 3300
+length 8 561
+length 9 13
+process done 1879.51524806
+minRF: 0.075 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.7L.txt
+././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.7L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36', '23', '81', '62']
+data read 0.327533960342
+length 1 17
+length 2 122
+length 3 558
+length 4 1753
+length 5 3887
+length 6 5495
+length 7 3457
+length 8 628
+length 9 20
+process done 1947.19843793
+minRF: 0.075 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.75L.txt
+././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.75L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36', '23', '81']
+data read 0.35792183876
+length 1 16
+length 2 107
+length 3 451
+length 4 1298
+length 5 2597
+length 6 3409
+length 7 2284
+length 8 521
+length 9 24
+process done 1312.25494003
+minRF: 0.075 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.8L.txt
+././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.8L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36', '23', '81']
+data read 0.380874156952
+length 1 16
+length 2 107
+length 3 451
+length 4 1297
+length 5 2600
+length 6 3435
+length 7 2331
+length 8 544
+length 9 26
+process done 1291.90871906
+minRF: 0.075 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.85L.txt
+././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.85L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36', '23', '81']
+data read 0.357209920883
+length 1 16
+length 2 107
+length 3 453
+length 4 1300
+length 5 2604
+length 6 3482
+length 7 2465
+length 8 621
+length 9 30
+process done 1334.82683492
+minRF: 0.075 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.9L.txt
+././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.9L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36', '23', '81']
+data read 0.371073007584
+length 1 16
+length 2 107
+length 3 453
+length 4 1300
+length 5 2603
+length 6 3494
+length 7 2507
+length 8 640
+length 9 32
+process done 1367.93790793
+minRF: 0.075 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.95L.txt
+././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_1.95L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36', '23', '81']
+data read 0.361666917801
+length 1 16
+length 2 107
+length 3 453
+length 4 1298
+length 5 2600
+length 6 3477
+length 7 2441
+length 8 598
+length 9 28
+process done 1376.21059895
+minRF: 0.075 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_2.0L.txt
+././outputs/bmspos/bmspos_0.075_0.5_0.7_bmspos_final_2.0L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36', '23', '81']
+data read 0.377882003784
+length 1 16
+length 2 107
+length 3 453
+length 4 1298
+length 5 2599
+length 6 3473
+length 7 2435
+length 8 590
+length 9 28
+process done 1436.55151606
+minRF: 0.08 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.05L.txt
+././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.05L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '63', '37', '36', '65', '23', '81']
+data read 0.210554838181
+length 1 16
+length 2 107
+length 3 451
+length 4 1291
+length 5 2567
+length 6 3260
+length 7 1906
+length 8 326
+length 9 4
+process done 685.419453859
+minRF: 0.08 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.1L.txt
+././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.1L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '63', '65', '23', '81']
+data read 0.212105035782
+length 1 16
+length 2 107
+length 3 451
+length 4 1289
+length 5 2549
+length 6 3161
+length 7 1753
+length 8 275
+length 9 1
+process done 704.806821108
+minRF: 0.08 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.15L.txt
+././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.15L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '63', '65', '81', '23']
+data read 0.223177194595
+length 1 16
+length 2 107
+length 3 451
+length 4 1285
+length 5 2526
+length 6 3084
+length 7 1760
+length 8 306
+length 9 9
+process done 706.950885057
+minRF: 0.08 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.2L.txt
+././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.2L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '65', '63', '81', '23']
+data read 0.240074157715
+length 1 16
+length 2 107
+length 3 451
+length 4 1286
+length 5 2539
+length 6 3159
+length 7 1902
+length 8 361
+length 9 10
+process done 760.13835907
+minRF: 0.08 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.25L.txt
+././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.25L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '65', '63', '81', '23']
+data read 0.249032974243
+length 1 16
+length 2 107
+length 3 451
+length 4 1290
+length 5 2559
+length 6 3249
+length 7 2052
+length 8 434
+length 9 12
+process done 813.012173891
+minRF: 0.08 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.3L.txt
+././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.3L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '65', '63', '81', '23']
+data read 0.250257015228
+length 1 16
+length 2 107
+length 3 451
+length 4 1290
+length 5 2559
+length 6 3253
+length 7 2066
+length 8 440
+length 9 14
+process done 850.299952984
+minRF: 0.08 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.35L.txt
+././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.35L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '65', '63', '81']
+data read 0.257803916931
+length 1 15
+length 2 93
+length 3 364
+length 4 990
+length 5 1863
+length 6 2134
+length 7 1066
+length 8 143
+length 9 4
+process done 578.497419834
+minRF: 0.08 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.4L.txt
+././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.4L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '65', '63', '23']
+data read 0.271219015121
+length 1 15
+length 2 93
+length 3 360
+length 4 933
+length 5 1638
+length 6 1711
+length 7 834
+length 8 137
+length 9 5
+process done 503.149022102
+minRF: 0.08 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.45L.txt
+././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.45L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '65', '63']
+data read 0.275691986084
+length 1 14
+length 2 80
+length 3 286
+length 4 704
+length 5 1161
+length 6 1058
+length 7 375
+length 8 32
+process done 342.608925104
+minRF: 0.08 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.5L.txt
+././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.5L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '65', '63']
+data read 0.285844802856
+length 1 14
+length 2 80
+length 3 286
+length 4 704
+length 5 1162
+length 6 1057
+length 7 375
+length 8 32
+process done 361.971748829
+minRF: 0.08 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.55L.txt
+././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.55L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '36', '63']
+data read 0.302727937698
+length 1 14
+length 2 80
+length 3 286
+length 4 705
+length 5 1173
+length 6 1065
+length 7 378
+length 8 35
+process done 361.075994015
+minRF: 0.08 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.6L.txt
+././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.6L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '36', '63', '23']
+data read 0.312936067581
+length 1 15
+length 2 93
+length 3 360
+length 4 933
+length 5 1648
+length 6 1698
+length 7 788
+length 8 105
+process done 562.757824898
+minRF: 0.08 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.65L.txt
+././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.65L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36']
+data read 0.31299495697
+length 1 14
+length 2 80
+length 3 286
+length 4 705
+length 5 1172
+length 6 1043
+length 7 308
+length 8 13
+process done 378.830321074
+minRF: 0.08 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.7L.txt
+././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.7L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36']
+data read 0.318372964859
+length 1 14
+length 2 80
+length 3 286
+length 4 705
+length 5 1173
+length 6 1070
+length 7 326
+length 8 17
+process done 392.849426985
+minRF: 0.08 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.75L.txt
+././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.75L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36']
+data read 0.338110923767
+length 1 14
+length 2 80
+length 3 286
+length 4 705
+length 5 1174
+length 6 1090
+length 7 343
+length 8 19
+process done 405.251623869
+minRF: 0.08 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.8L.txt
+././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.8L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36']
+data read 0.345154047012
+length 1 14
+length 2 80
+length 3 286
+length 4 705
+length 5 1178
+length 6 1105
+length 7 354
+length 8 20
+process done 422.759835005
+minRF: 0.08 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.85L.txt
+././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.85L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63']
+data read 0.343317985535
+length 1 13
+length 2 68
+length 3 220
+length 4 485
+length 5 702
+length 6 580
+length 7 174
+length 8 10
+process done 244.245918989
+minRF: 0.08 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.9L.txt
+././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.9L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65']
+data read 0.356106996536
+length 1 12
+length 2 57
+length 3 165
+length 4 321
+length 5 407
+length 6 279
+length 7 28
+length 8 1
+process done 142.184579849
+minRF: 0.08 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.95L.txt
+././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_1.95L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36']
+data read 0.37110209465
+length 1 14
+length 2 80
+length 3 286
+length 4 705
+length 5 1179
+length 6 1132
+length 7 377
+length 8 22
+process done 464.915002108
+minRF: 0.08 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_2.0L.txt
+././outputs/bmspos/bmspos_0.08_0.5_0.7_bmspos_final_2.0L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '65', '63', '36']
+data read 0.373699188232
+length 1 14
+length 2 80
+length 3 286
+length 4 705
+length 5 1178
+length 6 1133
+length 7 379
+length 8 23
+process done 480.043179035
+minRF: 0.085 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.05L.txt
+././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.05L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.214978933334
+length 1 10
+length 2 37
+length 3 84
+length 4 114
+length 5 82
+length 6 22
+process done 20.0308129787
+minRF: 0.085 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.1L.txt
+././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.1L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '63']
+data read 0.211894035339
+length 1 13
+length 2 68
+length 3 220
+length 4 482
+length 5 659
+length 6 432
+length 7 99
+length 8 3
+process done 130.148159981
+minRF: 0.085 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.15L.txt
+././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.15L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '63', '65']
+data read 0.224070072174
+length 1 14
+length 2 80
+length 3 286
+length 4 701
+length 5 1126
+length 6 938
+length 7 228
+length 8 4
+process done 245.499316931
+minRF: 0.085 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.2L.txt
+././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.2L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37', '36', '65', '63']
+data read 0.232231140137
+length 1 14
+length 2 80
+length 3 286
+length 4 702
+length 5 1136
+length 6 967
+length 7 300
+length 8 16
+process done 260.163810015
+minRF: 0.085 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.25L.txt
+././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.25L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37']
+data read 0.239037036896
+length 1 11
+length 2 47
+length 3 120
+length 4 199
+length 5 199
+length 6 108
+length 7 21
+process done 47.5959851742
+minRF: 0.085 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.3L.txt
+././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.3L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37']
+data read 0.250741958618
+length 1 11
+length 2 47
+length 3 120
+length 4 199
+length 5 199
+length 6 108
+length 7 21
+process done 47.9334011078
+minRF: 0.085 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.35L.txt
+././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.35L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37']
+data read 0.25753903389
+length 1 11
+length 2 47
+length 3 120
+length 4 200
+length 5 201
+length 6 109
+length 7 22
+process done 49.7379601002
+minRF: 0.085 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.4L.txt
+././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.4L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37']
+data read 0.266168117523
+length 1 11
+length 2 47
+length 3 120
+length 4 199
+length 5 199
+length 6 108
+length 7 22
+process done 51.4172229767
+minRF: 0.085 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.45L.txt
+././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.45L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37']
+data read 0.275089025497
+length 1 11
+length 2 47
+length 3 120
+length 4 200
+length 5 201
+length 6 110
+length 7 22
+process done 54.2868490219
+minRF: 0.085 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.5L.txt
+././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.5L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37']
+data read 0.292398929596
+length 1 11
+length 2 47
+length 3 120
+length 4 200
+length 5 201
+length 6 110
+length 7 22
+process done 55.6664488316
+minRF: 0.085 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.55L.txt
+././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.55L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37']
+data read 0.291126966476
+length 1 11
+length 2 47
+length 3 120
+length 4 201
+length 5 205
+length 6 114
+length 7 22
+process done 57.9215459824
+minRF: 0.085 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.6L.txt
+././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.6L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37']
+data read 0.305094003677
+length 1 11
+length 2 47
+length 3 120
+length 4 201
+length 5 205
+length 6 114
+length 7 21
+process done 60.6781198978
+minRF: 0.085 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.65L.txt
+././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.65L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37']
+data read 0.31246805191
+length 1 11
+length 2 47
+length 3 120
+length 4 201
+length 5 205
+length 6 114
+length 7 21
+process done 61.7920269966
+minRF: 0.085 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.7L.txt
+././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.7L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37']
+data read 0.326220989227
+length 1 11
+length 2 47
+length 3 120
+length 4 201
+length 5 205
+length 6 114
+length 7 22
+process done 63.1787979603
+minRF: 0.085 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.75L.txt
+././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.75L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37']
+data read 0.328153133392
+length 1 11
+length 2 47
+length 3 120
+length 4 201
+length 5 205
+length 6 115
+length 7 22
+process done 65.8356580734
+minRF: 0.085 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.8L.txt
+././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.8L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37']
+data read 0.337563037872
+length 1 11
+length 2 47
+length 3 120
+length 4 201
+length 5 205
+length 6 115
+length 7 22
+process done 67.8751249313
+minRF: 0.085 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.85L.txt
+././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.85L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37']
+data read 0.351791858673
+length 1 11
+length 2 47
+length 3 120
+length 4 201
+length 5 206
+length 6 118
+length 7 24
+length 8 1
+process done 70.2443358898
+minRF: 0.085 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.9L.txt
+././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.9L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37']
+data read 0.36949300766
+length 1 11
+length 2 47
+length 3 120
+length 4 201
+length 5 206
+length 6 119
+length 7 24
+length 8 1
+process done 72.1478819847
+minRF: 0.085 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.95L.txt
+././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_1.95L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37']
+data read 0.372380018234
+length 1 11
+length 2 47
+length 3 120
+length 4 201
+length 5 206
+length 6 117
+length 7 22
+process done 73.3925001621
+minRF: 0.085 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_2.0L.txt
+././outputs/bmspos/bmspos_0.085_0.5_0.7_bmspos_final_2.0L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34', '37']
+data read 0.377400159836
+length 1 11
+length 2 47
+length 3 120
+length 4 201
+length 5 205
+length 6 115
+length 7 22
+process done 76.3336160183
+minRF: 0.09 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.05L.txt
+././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.05L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.212712049484
+length 1 10
+length 2 37
+length 3 84
+length 4 114
+length 5 82
+length 6 22
+process done 19.4832820892
+minRF: 0.09 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.1L.txt
+././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.1L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.212598085403
+length 1 10
+length 2 37
+length 3 84
+length 4 114
+length 5 80
+length 6 20
+process done 20.1465709209
+minRF: 0.09 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.15L.txt
+././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.15L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.230565786362
+length 1 10
+length 2 37
+length 3 84
+length 4 113
+length 5 79
+length 6 20
+process done 21.1194469929
+minRF: 0.09 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.2L.txt
+././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.2L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.243845939636
+length 1 10
+length 2 37
+length 3 84
+length 4 114
+length 5 82
+length 6 22
+process done 23.3190460205
+minRF: 0.09 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.25L.txt
+././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.25L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.26469707489
+length 1 10
+length 2 37
+length 3 84
+length 4 115
+length 5 84
+length 6 24
+process done 23.4106860161
+minRF: 0.09 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.3L.txt
+././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.3L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.255449056625
+length 1 10
+length 2 37
+length 3 84
+length 4 115
+length 5 84
+length 6 24
+process done 24.8332438469
+minRF: 0.09 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.35L.txt
+././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.35L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.258769989014
+length 1 10
+length 2 37
+length 3 84
+length 4 116
+length 5 85
+length 6 24
+process done 25.2351830006
+minRF: 0.09 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.4L.txt
+././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.4L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.273858070374
+length 1 10
+length 2 37
+length 3 84
+length 4 115
+length 5 84
+length 6 24
+process done 27.367921114
+minRF: 0.09 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.45L.txt
+././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.45L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.281365871429
+length 1 10
+length 2 37
+length 3 84
+length 4 116
+length 5 85
+length 6 25
+process done 27.3102550507
+minRF: 0.09 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.5L.txt
+././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.5L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.286660909653
+length 1 10
+length 2 37
+length 3 84
+length 4 116
+length 5 85
+length 6 25
+process done 28.2980079651
+minRF: 0.09 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.55L.txt
+././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.55L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.301868200302
+length 1 10
+length 2 37
+length 3 84
+length 4 117
+length 5 88
+length 6 26
+process done 29.5292840004
+minRF: 0.09 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.6L.txt
+././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.6L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.310196876526
+length 1 10
+length 2 37
+length 3 84
+length 4 117
+length 5 88
+length 6 26
+process done 31.6833469868
+minRF: 0.09 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.65L.txt
+././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.65L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.31579709053
+length 1 10
+length 2 37
+length 3 84
+length 4 117
+length 5 88
+length 6 26
+process done 32.4991819859
+minRF: 0.09 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.7L.txt
+././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.7L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.327443122864
+length 1 10
+length 2 37
+length 3 84
+length 4 117
+length 5 88
+length 6 26
+process done 32.74725914
+minRF: 0.09 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.75L.txt
+././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.75L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.330124139786
+length 1 10
+length 2 37
+length 3 84
+length 4 117
+length 5 88
+length 6 27
+process done 34.1374790668
+minRF: 0.09 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.8L.txt
+././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.8L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.344449996948
+length 1 10
+length 2 37
+length 3 84
+length 4 117
+length 5 88
+length 6 27
+process done 35.1386668682
+minRF: 0.09 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.85L.txt
+././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.85L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.358523845673
+length 1 10
+length 2 37
+length 3 84
+length 4 117
+length 5 89
+length 6 29
+length 7 1
+process done 39.0674498081
+minRF: 0.09 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.9L.txt
+././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.9L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.360596895218
+length 1 10
+length 2 37
+length 3 84
+length 4 117
+length 5 89
+length 6 30
+length 7 1
+process done 36.9824979305
+minRF: 0.09 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.95L.txt
+././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_1.95L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.365452051163
+length 1 10
+length 2 37
+length 3 84
+length 4 117
+length 5 89
+length 6 28
+process done 37.071089983
+minRF: 0.09 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_2.0L.txt
+././outputs/bmspos/bmspos_0.09_0.5_0.7_bmspos_final_2.0L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.38725399971
+length 1 10
+length 2 37
+length 3 84
+length 4 117
+length 5 88
+length 6 27
+process done 39.0895578861
+minRF: 0.095 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.05L.txt
+././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.05L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.210375070572
+length 1 10
+length 2 37
+length 3 84
+length 4 114
+length 5 82
+length 6 22
+process done 19.3704509735
+minRF: 0.095 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.1L.txt
+././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.1L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.212479114532
+length 1 10
+length 2 37
+length 3 84
+length 4 114
+length 5 80
+length 6 20
+process done 20.2617199421
+minRF: 0.095 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.15L.txt
+././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.15L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.226747989655
+length 1 10
+length 2 37
+length 3 84
+length 4 113
+length 5 79
+length 6 20
+process done 21.0333828926
+minRF: 0.095 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.2L.txt
+././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.2L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.240758895874
+length 1 10
+length 2 37
+length 3 84
+length 4 114
+length 5 82
+length 6 22
+process done 22.1904938221
+minRF: 0.095 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.25L.txt
+././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.25L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.251130104065
+length 1 10
+length 2 37
+length 3 84
+length 4 115
+length 5 84
+length 6 24
+process done 24.5393459797
+minRF: 0.095 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.3L.txt
+././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.3L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.250047206879
+length 1 10
+length 2 37
+length 3 84
+length 4 115
+length 5 84
+length 6 24
+process done 25.0473451614
+minRF: 0.095 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.35L.txt
+././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.35L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.26189494133
+length 1 10
+length 2 37
+length 3 84
+length 4 116
+length 5 85
+length 6 24
+process done 25.6266598701
+minRF: 0.095 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.4L.txt
+././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.4L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.268748998642
+length 1 10
+length 2 37
+length 3 84
+length 4 115
+length 5 84
+length 6 24
+process done 26.5396621227
+minRF: 0.095 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.45L.txt
+././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.45L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.278982162476
+length 1 10
+length 2 37
+length 3 84
+length 4 116
+length 5 85
+length 6 25
+process done 27.4276192188
+minRF: 0.095 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.5L.txt
+././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.5L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.292224884033
+length 1 10
+length 2 37
+length 3 84
+length 4 116
+length 5 85
+length 6 25
+process done 29.3376219273
+minRF: 0.095 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.55L.txt
+././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.55L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.295516967773
+length 1 10
+length 2 37
+length 3 84
+length 4 117
+length 5 88
+length 6 26
+process done 30.3258159161
+minRF: 0.095 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.6L.txt
+././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.6L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.301485061646
+length 1 10
+length 2 37
+length 3 84
+length 4 117
+length 5 88
+length 6 26
+process done 30.5174379349
+minRF: 0.095 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.65L.txt
+././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.65L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.311693906784
+length 1 10
+length 2 37
+length 3 84
+length 4 117
+length 5 88
+length 6 26
+process done 31.6140730381
+minRF: 0.095 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.7L.txt
+././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.7L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.320894002914
+length 1 10
+length 2 37
+length 3 84
+length 4 117
+length 5 88
+length 6 26
+process done 35.0829539299
+minRF: 0.095 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.75L.txt
+././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.75L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.366827011108
+length 1 10
+length 2 37
+length 3 84
+length 4 117
+length 5 88
+length 6 27
+process done 35.416916132
+minRF: 0.095 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.8L.txt
+././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.8L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.345402956009
+length 1 10
+length 2 37
+length 3 84
+length 4 117
+length 5 88
+length 6 27
+process done 34.7925150394
+minRF: 0.095 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.85L.txt
+././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.85L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.346553087234
+length 1 10
+length 2 37
+length 3 84
+length 4 117
+length 5 89
+length 6 29
+length 7 1
+process done 35.7977490425
+minRF: 0.095 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.9L.txt
+././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.9L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.354066133499
+length 1 10
+length 2 37
+length 3 84
+length 4 117
+length 5 89
+length 6 30
+length 7 1
+process done 36.5812220573
+minRF: 0.095 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.95L.txt
+././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_1.95L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.36336183548
+length 1 10
+length 2 37
+length 3 84
+length 4 117
+length 5 89
+length 6 28
+process done 37.7302598953
+minRF: 0.095 minCS: 0.5 maxOR: 0.7 outfile ././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_2.0L.txt
+././outputs/bmspos/bmspos_0.095_0.5_0.7_bmspos_final_2.0L.txt
+------sizeone-----
+['3', '8', '35', '9', '1', '30', '33', '42', '10', '34']
+data read 0.386585950851
+length 1 10
+length 2 37
+length 3 84
+length 4 117
+length 5 88
+length 6 27
+process done 39.873926878

@@ -1,0 +1,1938 @@
+minRF: 0.0425 minCS: 0.3 maxOR: 0.05 outfile ././outputs/synthetic/synthetic_0.0425_0.3_0.05_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0425_0.3_0.05_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120', '883', '937', '177', '145', '438', '460', '362', '789', '39', '32']
+data read 0.313169956207
+length 1 22
+length 2 128
+process done 29.5495569706
+minRF: 0.0425 minCS: 0.3 maxOR: 0.1 outfile ././outputs/synthetic/synthetic_0.0425_0.3_0.1_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0425_0.3_0.1_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120', '883', '937', '177', '145', '438', '460', '362', '789', '39', '32']
+data read 0.180065155029
+length 1 22
+length 2 209
+length 3 757
+length 4 110
+process done 167.750348091
+minRF: 0.0425 minCS: 0.3 maxOR: 0.15 outfile ././outputs/synthetic/synthetic_0.0425_0.3_0.15_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0425_0.3_0.15_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120', '883', '937', '177', '145', '438', '460', '362', '789', '39', '32']
+data read 0.203618049622
+length 1 22
+length 2 224
+length 3 1281
+length 4 3287
+length 5 1753
+length 6 10
+process done 790.728144884
+minRF: 0.0425 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0425_0.3_0.2_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0425_0.3_0.2_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120', '883', '937', '177', '145', '438', '460', '362', '789', '39', '32']
+data read 0.183812141418
+length 1 22
+length 2 230
+length 3 1453
+length 4 5762
+length 5 11445
+length 6 6933
+length 7 278
+process done 3129.51310396
+minRF: 0.0425 minCS: 0.3 maxOR: 0.25 outfile ././outputs/synthetic/synthetic_0.0425_0.3_0.25_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0425_0.3_0.25_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120', '883', '937', '177', '145', '438', '460', '362', '789', '39', '32']
+data read 0.186670064926
+length 1 22
+length 2 230
+length 3 1513
+length 4 6802
+length 5 20374
+length 6 34849
+length 7 22468
+length 8 2588
+length 9 5
+process done 10437.1790872
+minRF: 0.0425 minCS: 0.3 maxOR: 0.3 outfile ././outputs/synthetic/synthetic_0.0425_0.3_0.3_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0425_0.3_0.3_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120', '883', '937', '177', '145', '438', '460', '362', '789', '39', '32']
+data read 0.194581985474
+length 1 22
+length 2 231
+length 3 1525
+length 4 7071
+length 5 24000
+length 6 57350
+length 7 86799
+length 8 60883
+length 9 11347
+length 10 184
+process done 29163.099869
+minRF: 0.0425 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0425_0.3_0.2_synthetic_55K.txt
+././outputs/synthetic/synthetic_0.0425_0.3_0.2_synthetic_55K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722', '684', '217', '692', '419', '494', '883', '120', '937', '177', '145', '438', '460', '362', '789', '32']
+data read 0.192639112473
+length 1 21
+length 2 209
+length 3 1263
+length 4 4827
+length 5 9237
+length 6 5341
+length 7 225
+process done 1901.8377521
+minRF: 0.0425 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0425_0.3_0.2_synthetic_60K.txt
+././outputs/synthetic/synthetic_0.0425_0.3_0.2_synthetic_60K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722', '684', '217', '692', '494', '883', '419', '120', '937', '177', '145', '438', '460', '362', '789', '32']
+data read 0.243547201157
+length 1 21
+length 2 209
+length 3 1264
+length 4 4820
+length 5 9145
+length 6 5073
+length 7 185
+process done 2006.92382121
+minRF: 0.0425 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0425_0.3_0.2_synthetic_65K.txt
+././outputs/synthetic/synthetic_0.0425_0.3_0.2_synthetic_65K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722', '684', '217', '692', '494', '419', '883', '120', '177', '937', '145', '438', '460', '362', '789', '32']
+data read 0.262330055237
+length 1 21
+length 2 209
+length 3 1264
+length 4 4820
+length 5 9277
+length 6 5320
+length 7 223
+process done 2220.60273314
+minRF: 0.0425 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0425_0.3_0.2_synthetic_70K.txt
+././outputs/synthetic/synthetic_0.0425_0.3_0.2_synthetic_70K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722', '684', '217', '692', '494', '419', '120', '883', '177', '937', '145', '438', '460', '362', '789', '32']
+data read 0.263382911682
+length 1 21
+length 2 209
+length 3 1267
+length 4 4837
+length 5 9238
+length 6 5360
+length 7 198
+process done 2318.01250982
+minRF: 0.0425 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0425_0.3_0.2_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0425_0.3_0.2_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120', '883', '937', '177', '145', '438', '460', '362', '789', '39', '32']
+data read 0.207176923752
+length 1 22
+length 2 230
+length 3 1453
+length 4 5762
+length 5 11445
+length 6 6933
+length 7 278
+process done 3189.4770751
+minRF: 0.0425 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0425_0.3_0.2_synthetic_80K.txt
+././outputs/synthetic/synthetic_0.0425_0.3_0.2_synthetic_80K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '419', '692', '120', '883', '937', '177', '145', '438', '460', '362', '789', '32']
+data read 0.277101993561
+length 1 21
+length 2 209
+length 3 1264
+length 4 4805
+length 5 9058
+length 6 5062
+length 7 168
+process done 2510.69781804
+minRF: 0.0425 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0425_0.3_0.2_synthetic_85K.txt
+././outputs/synthetic/synthetic_0.0425_0.3_0.2_synthetic_85K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '684', '217', '494', '419', '692', '120', '883', '937', '177', '438', '145', '460', '362', '789', '39']
+data read 0.484594106674
+length 1 21
+length 2 209
+length 3 1244
+length 4 4543
+length 5 8045
+length 6 4436
+length 7 136
+process done 2428.97652602
+minRF: 0.0425 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0425_0.3_0.2_synthetic_90K.txt
+././outputs/synthetic/synthetic_0.0425_0.3_0.2_synthetic_90K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722', '684', '217', '494', '419', '692', '120', '883', '937', '177', '438', '145', '460', '362', '789']
+data read 0.308054924011
+length 1 20
+length 2 189
+length 3 1078
+length 4 3809
+length 5 6474
+length 6 3441
+length 7 143
+process done 1956.40052414
+minRF: 0.0425 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0425_0.3_0.2_synthetic_95K.txt
+././outputs/synthetic/synthetic_0.0425_0.3_0.2_synthetic_95K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '684', '217', '494', '419', '692', '120', '883', '937', '177', '145', '438', '460', '362', '789']
+data read 0.326179027557
+length 1 20
+length 2 189
+length 3 1077
+length 4 3817
+length 5 6549
+length 6 3557
+length 7 155
+process done 2105.12970018
+minRF: 0.0425 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0425_0.3_0.2_synthetic_100K.txt
+././outputs/synthetic/synthetic_0.0425_0.3_0.2_synthetic_100K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '684', '217', '494', '419', '692', '120', '883', '937', '177', '145', '438', '460', '362', '789', '39']
+data read 0.356343984604
+length 1 21
+length 2 209
+length 3 1244
+length 4 4596
+length 5 8283
+length 6 4691
+length 7 149
+process done 3020.55237794
+minRF: 0.045 minCS: 0.3 maxOR: 0.05 outfile ././outputs/synthetic/synthetic_0.045_0.3_0.05_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.045_0.3_0.05_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120', '883', '937', '177', '145']
+data read 0.193113088608
+length 1 16
+length 2 57
+process done 11.8705739975
+minRF: 0.045 minCS: 0.3 maxOR: 0.1 outfile ././outputs/synthetic/synthetic_0.045_0.3_0.1_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.045_0.3_0.1_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120', '883', '937', '177', '145']
+data read 0.214148044586
+length 1 16
+length 2 110
+length 3 229
+length 4 21
+process done 51.3575589657
+minRF: 0.045 minCS: 0.3 maxOR: 0.15 outfile ././outputs/synthetic/synthetic_0.045_0.3_0.15_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.045_0.3_0.15_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120', '883', '937', '177', '145']
+data read 0.191637992859
+length 1 16
+length 2 116
+length 3 462
+length 4 688
+length 5 156
+process done 152.094098091
+minRF: 0.045 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.045_0.3_0.2_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.045_0.3_0.2_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120', '883', '937', '177', '145']
+data read 0.209625005722
+length 1 16
+length 2 120
+length 3 536
+length 4 1406
+length 5 1545
+length 6 349
+length 7 8
+process done 410.810672998
+minRF: 0.045 minCS: 0.3 maxOR: 0.25 outfile ././outputs/synthetic/synthetic_0.045_0.3_0.25_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.045_0.3_0.25_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120', '883', '937', '177', '145']
+data read 0.196513175964
+length 1 16
+length 2 120
+length 3 557
+length 4 1723
+length 5 3322
+length 6 3160
+length 7 658
+length 8 25
+process done 1009.88124204
+minRF: 0.045 minCS: 0.3 maxOR: 0.3 outfile ././outputs/synthetic/synthetic_0.045_0.3_0.3_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.045_0.3_0.3_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120', '883', '937', '177', '145']
+data read 0.200242996216
+length 1 16
+length 2 120
+length 3 560
+length 4 1813
+length 5 4167
+length 6 6312
+length 7 5299
+length 8 1238
+length 9 33
+process done 1766.93896103
+minRF: 0.045 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.045_0.3_0.2_synthetic_55K.txt
+././outputs/synthetic/synthetic_0.045_0.3_0.2_synthetic_55K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722', '684', '217', '692', '419', '494', '883', '120', '937', '177', '145']
+data read 0.179580926895
+length 1 16
+length 2 120
+length 3 533
+length 4 1408
+length 5 1599
+length 6 417
+length 7 7
+process done 277.948333979
+minRF: 0.045 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.045_0.3_0.2_synthetic_60K.txt
+././outputs/synthetic/synthetic_0.045_0.3_0.2_synthetic_60K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722', '684', '217', '692', '494', '883', '419', '120', '937', '177', '145']
+data read 0.210203886032
+length 1 16
+length 2 120
+length 3 534
+length 4 1407
+length 5 1581
+length 6 379
+length 7 3
+process done 299.154577971
+minRF: 0.045 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.045_0.3_0.2_synthetic_65K.txt
+././outputs/synthetic/synthetic_0.045_0.3_0.2_synthetic_65K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722', '684', '217', '692', '494', '419', '883', '120', '177', '937', '145']
+data read 0.212975025177
+length 1 16
+length 2 120
+length 3 534
+length 4 1398
+length 5 1588
+length 6 408
+length 7 6
+process done 321.780313015
+minRF: 0.045 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.045_0.3_0.2_synthetic_70K.txt
+././outputs/synthetic/synthetic_0.045_0.3_0.2_synthetic_70K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722', '684', '217', '692', '494', '419', '120', '883', '177', '937', '145']
+data read 0.240307092667
+length 1 16
+length 2 120
+length 3 537
+length 4 1404
+length 5 1614
+length 6 423
+length 7 11
+process done 350.742002964
+minRF: 0.045 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.045_0.3_0.2_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.045_0.3_0.2_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120', '883', '937', '177', '145']
+data read 0.179780006409
+length 1 16
+length 2 120
+length 3 536
+length 4 1406
+length 5 1545
+length 6 349
+length 7 8
+process done 369.887766838
+minRF: 0.045 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.045_0.3_0.2_synthetic_80K.txt
+././outputs/synthetic/synthetic_0.045_0.3_0.2_synthetic_80K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '419', '692', '120', '883', '937', '177', '145', '438']
+data read 0.189687013626
+length 1 17
+length 2 136
+length 3 637
+length 4 1763
+length 5 2073
+length 6 538
+length 7 10
+process done 509.639674902
+minRF: 0.045 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.045_0.3_0.2_synthetic_85K.txt
+././outputs/synthetic/synthetic_0.045_0.3_0.2_synthetic_85K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '684', '217', '494', '419', '692', '120', '883', '937', '177', '438', '145']
+data read 0.21839594841
+length 1 17
+length 2 136
+length 3 638
+length 4 1772
+length 5 2056
+length 6 514
+length 7 9
+process done 541.521239042
+minRF: 0.045 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.045_0.3_0.2_synthetic_90K.txt
+././outputs/synthetic/synthetic_0.045_0.3_0.2_synthetic_90K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722', '684', '217', '494', '419', '692', '120', '883', '937', '177', '438', '145']
+data read 0.214487075806
+length 1 17
+length 2 136
+length 3 640
+length 4 1780
+length 5 2077
+length 6 515
+length 7 9
+process done 569.396138906
+minRF: 0.045 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.045_0.3_0.2_synthetic_95K.txt
+././outputs/synthetic/synthetic_0.045_0.3_0.2_synthetic_95K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '684', '217', '494', '419', '692', '120', '883', '937', '177', '145', '438']
+data read 0.235151052475
+length 1 17
+length 2 136
+length 3 639
+length 4 1784
+length 5 2111
+length 6 556
+length 7 9
+process done 618.735687017
+minRF: 0.045 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.045_0.3_0.2_synthetic_100K.txt
+././outputs/synthetic/synthetic_0.045_0.3_0.2_synthetic_100K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '684', '217', '494', '419', '692', '120', '883', '937', '177', '145', '438']
+data read 0.246716022491
+length 1 17
+length 2 136
+length 3 639
+length 4 1782
+length 5 2107
+length 6 556
+length 7 9
+process done 649.286412001
+minRF: 0.0475 minCS: 0.3 maxOR: 0.05 outfile ././outputs/synthetic/synthetic_0.0475_0.3_0.05_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0475_0.3_0.05_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120', '883']
+data read 0.178112030029
+length 1 13
+length 2 33
+process done 4.74829292297
+minRF: 0.0475 minCS: 0.3 maxOR: 0.1 outfile ././outputs/synthetic/synthetic_0.0475_0.3_0.1_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0475_0.3_0.1_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120', '883']
+data read 0.176477909088
+length 1 13
+length 2 71
+length 3 111
+length 4 6
+process done 18.0821709633
+minRF: 0.0475 minCS: 0.3 maxOR: 0.15 outfile ././outputs/synthetic/synthetic_0.0475_0.3_0.15_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0475_0.3_0.15_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120', '883']
+data read 0.195064067841
+length 1 13
+length 2 75
+length 3 229
+length 4 235
+length 5 32
+process done 48.7360341549
+minRF: 0.0475 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0475_0.3_0.2_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0475_0.3_0.2_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120', '883']
+data read 0.17772603035
+length 1 13
+length 2 78
+length 3 268
+length 4 512
+length 5 400
+length 6 43
+process done 99.9236040115
+minRF: 0.0475 minCS: 0.3 maxOR: 0.25 outfile ././outputs/synthetic/synthetic_0.0475_0.3_0.25_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0475_0.3_0.25_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120', '883']
+data read 0.185611009598
+length 1 13
+length 2 78
+length 3 283
+length 4 662
+length 5 867
+length 6 516
+length 7 63
+process done 185.045295954
+minRF: 0.0475 minCS: 0.3 maxOR: 0.3 outfile ././outputs/synthetic/synthetic_0.0475_0.3_0.3_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0475_0.3_0.3_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120', '883']
+data read 0.177223920822
+length 1 13
+length 2 78
+length 3 286
+length 4 708
+length 5 1206
+length 6 1224
+length 7 540
+length 8 55
+process done 299.474387884
+minRF: 0.0475 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0475_0.3_0.2_synthetic_55K.txt
+././outputs/synthetic/synthetic_0.0475_0.3_0.2_synthetic_55K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722', '684', '217', '692', '419', '494', '883', '120']
+data read 0.131305932999
+length 1 13
+length 2 78
+length 3 268
+length 4 526
+length 5 426
+length 6 89
+length 7 1
+process done 80.0889699459
+minRF: 0.0475 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0475_0.3_0.2_synthetic_60K.txt
+././outputs/synthetic/synthetic_0.0475_0.3_0.2_synthetic_60K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722', '684', '217', '692', '494', '883', '419', '120']
+data read 0.158798933029
+length 1 13
+length 2 78
+length 3 268
+length 4 525
+length 5 420
+length 6 53
+process done 86.944578886
+minRF: 0.0475 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0475_0.3_0.2_synthetic_65K.txt
+././outputs/synthetic/synthetic_0.0475_0.3_0.2_synthetic_65K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722', '684', '217', '692', '494', '419', '883', '120']
+data read 0.155263900757
+length 1 13
+length 2 78
+length 3 268
+length 4 520
+length 5 414
+length 6 57
+process done 92.5016589165
+minRF: 0.0475 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0475_0.3_0.2_synthetic_70K.txt
+././outputs/synthetic/synthetic_0.0475_0.3_0.2_synthetic_70K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722', '684', '217', '692', '494', '419', '120', '883']
+data read 0.168239831924
+length 1 13
+length 2 78
+length 3 269
+length 4 517
+length 5 421
+length 6 51
+process done 97.9568519592
+minRF: 0.0475 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0475_0.3_0.2_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0475_0.3_0.2_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120', '883']
+data read 0.1850938797
+length 1 13
+length 2 78
+length 3 268
+length 4 512
+length 5 400
+length 6 43
+process done 98.9977519512
+minRF: 0.0475 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0475_0.3_0.2_synthetic_80K.txt
+././outputs/synthetic/synthetic_0.0475_0.3_0.2_synthetic_80K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '419', '692', '120', '883']
+data read 0.192451000214
+length 1 13
+length 2 78
+length 3 266
+length 4 506
+length 5 393
+length 6 53
+length 7 1
+process done 105.41594696
+minRF: 0.0475 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0475_0.3_0.2_synthetic_85K.txt
+././outputs/synthetic/synthetic_0.0475_0.3_0.2_synthetic_85K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '684', '217', '494', '419', '692', '120', '883']
+data read 0.201506137848
+length 1 13
+length 2 78
+length 3 267
+length 4 511
+length 5 405
+length 6 52
+length 7 1
+process done 113.159794092
+minRF: 0.0475 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0475_0.3_0.2_synthetic_90K.txt
+././outputs/synthetic/synthetic_0.0475_0.3_0.2_synthetic_90K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722', '684', '217', '494', '419', '692', '120', '883']
+data read 0.211654901505
+length 1 13
+length 2 78
+length 3 268
+length 4 513
+length 5 400
+length 6 52
+length 7 1
+process done 121.424146891
+minRF: 0.0475 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0475_0.3_0.2_synthetic_95K.txt
+././outputs/synthetic/synthetic_0.0475_0.3_0.2_synthetic_95K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '684', '217', '494', '419', '692', '120', '883']
+data read 0.224215984344
+length 1 13
+length 2 78
+length 3 268
+length 4 513
+length 5 403
+length 6 52
+length 7 1
+process done 131.773704052
+minRF: 0.0475 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0475_0.3_0.2_synthetic_100K.txt
+././outputs/synthetic/synthetic_0.0475_0.3_0.2_synthetic_100K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '684', '217', '494', '419', '692', '120', '883']
+data read 0.235816001892
+length 1 13
+length 2 78
+length 3 268
+length 4 515
+length 5 415
+length 6 52
+length 7 1
+process done 134.813398838
+minRF: 0.05 minCS: 0.3 maxOR: 0.05 outfile ././outputs/synthetic/synthetic_0.05_0.3_0.05_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.05_0.3_0.05_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120']
+data read 0.192010164261
+length 1 12
+length 2 27
+process done 4.00771594048
+minRF: 0.05 minCS: 0.3 maxOR: 0.1 outfile ././outputs/synthetic/synthetic_0.05_0.3_0.1_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.05_0.3_0.1_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120']
+data read 0.178230047226
+length 1 12
+length 2 60
+length 3 83
+length 4 6
+process done 13.7165892124
+minRF: 0.05 minCS: 0.3 maxOR: 0.15 outfile ././outputs/synthetic/synthetic_0.05_0.3_0.15_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.05_0.3_0.15_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120']
+data read 0.189579963684
+length 1 12
+length 2 63
+length 3 177
+length 4 161
+length 5 30
+process done 32.7366709709
+minRF: 0.05 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120']
+data read 0.18085193634
+length 1 12
+length 2 66
+length 3 203
+length 4 357
+length 5 252
+length 6 27
+process done 64.3557128906
+minRF: 0.05 minCS: 0.3 maxOR: 0.25 outfile ././outputs/synthetic/synthetic_0.05_0.3_0.25_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.05_0.3_0.25_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120']
+data read 0.176671028137
+length 1 12
+length 2 66
+length 3 217
+length 4 455
+length 5 535
+length 6 297
+length 7 37
+process done 110.807730913
+minRF: 0.05 minCS: 0.3 maxOR: 0.3 outfile ././outputs/synthetic/synthetic_0.05_0.3_0.3_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.05_0.3_0.3_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120']
+data read 0.17969918251
+length 1 12
+length 2 66
+length 3 220
+length 4 488
+length 5 733
+length 6 669
+length 7 270
+length 8 29
+process done 165.316903114
+minRF: 0.05 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_55K.txt
+././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_55K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722', '684', '217', '692']
+data read 0.131988048553
+length 1 9
+length 2 36
+length 3 76
+length 4 78
+length 5 15
+process done 9.58190321922
+minRF: 0.05 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_60K.txt
+././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_60K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722', '684', '217', '692', '494']
+data read 0.154036998749
+length 1 10
+length 2 45
+length 3 105
+length 4 135
+length 5 71
+length 6 13
+process done 19.0456848145
+minRF: 0.05 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_65K.txt
+././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_65K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722', '684', '217', '692', '494']
+data read 0.167541980743
+length 1 10
+length 2 45
+length 3 105
+length 4 135
+length 5 73
+length 6 14
+process done 20.7597560883
+minRF: 0.05 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_70K.txt
+././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_70K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722', '684', '217', '692', '494', '419', '120']
+data read 0.165760993958
+length 1 12
+length 2 66
+length 3 204
+length 4 363
+length 5 271
+length 6 37
+process done 61.0288841724
+minRF: 0.05 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '692', '419', '120']
+data read 0.189550161362
+length 1 12
+length 2 66
+length 3 203
+length 4 357
+length 5 252
+length 6 27
+process done 67.6504950523
+minRF: 0.05 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_80K.txt
+././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_80K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684', '494', '419', '692']
+data read 0.189292907715
+length 1 11
+length 2 55
+length 3 148
+length 4 235
+length 5 144
+length 6 15
+process done 42.3671998978
+minRF: 0.05 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_85K.txt
+././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_85K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '684', '217', '494', '419', '692']
+data read 0.212309837341
+length 1 11
+length 2 55
+length 3 149
+length 4 239
+length 5 151
+length 6 14
+process done 48.3977339268
+minRF: 0.05 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_90K.txt
+././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_90K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722', '684', '217', '494', '419', '692']
+data read 0.222804069519
+length 1 11
+length 2 55
+length 3 150
+length 4 239
+length 5 150
+length 6 14
+process done 50.9559881687
+minRF: 0.05 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_95K.txt
+././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_95K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '684', '217', '494', '419', '692']
+data read 0.223263025284
+length 1 11
+length 2 55
+length 3 150
+length 4 240
+length 5 150
+length 6 14
+process done 51.2878820896
+minRF: 0.05 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_100K.txt
+././outputs/synthetic/synthetic_0.05_0.3_0.2_synthetic_100K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '684', '217', '494', '419']
+data read 0.235198974609
+length 1 10
+length 2 45
+length 3 114
+length 4 163
+length 5 77
+process done 34.3980560303
+minRF: 0.0525 minCS: 0.3 maxOR: 0.05 outfile ././outputs/synthetic/synthetic_0.0525_0.3_0.05_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0525_0.3_0.05_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684']
+data read 0.177997112274
+length 1 8
+length 2 5
+process done 1.35495710373
+minRF: 0.0525 minCS: 0.3 maxOR: 0.1 outfile ././outputs/synthetic/synthetic_0.0525_0.3_0.1_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0525_0.3_0.1_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684']
+data read 0.176985025406
+length 1 8
+length 2 26
+length 3 6
+process done 3.61289095879
+minRF: 0.0525 minCS: 0.3 maxOR: 0.15 outfile ././outputs/synthetic/synthetic_0.0525_0.3_0.15_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0525_0.3_0.15_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684']
+data read 0.176522016525
+length 1 8
+length 2 27
+length 3 44
+length 4 6
+process done 5.80890512466
+minRF: 0.0525 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0525_0.3_0.2_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0525_0.3_0.2_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684']
+data read 0.176465988159
+length 1 8
+length 2 28
+length 3 55
+length 4 47
+length 5 4
+process done 8.62998199463
+minRF: 0.0525 minCS: 0.3 maxOR: 0.25 outfile ././outputs/synthetic/synthetic_0.0525_0.3_0.25_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0525_0.3_0.25_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684']
+data read 0.192442893982
+length 1 8
+length 2 28
+length 3 55
+length 4 64
+length 5 27
+process done 10.8675880432
+minRF: 0.0525 minCS: 0.3 maxOR: 0.3 outfile ././outputs/synthetic/synthetic_0.0525_0.3_0.3_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0525_0.3_0.3_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684']
+data read 0.188925981522
+length 1 8
+length 2 28
+length 3 56
+length 4 70
+length 5 56
+length 6 18
+process done 13.085613966
+minRF: 0.0525 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0525_0.3_0.2_synthetic_55K.txt
+././outputs/synthetic/synthetic_0.0525_0.3_0.2_synthetic_55K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722', '684', '217']
+data read 0.139055013657
+length 1 8
+length 2 28
+length 3 55
+length 4 48
+length 5 2
+process done 6.81005716324
+minRF: 0.0525 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0525_0.3_0.2_synthetic_60K.txt
+././outputs/synthetic/synthetic_0.0525_0.3_0.2_synthetic_60K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722', '684', '217']
+data read 0.142595052719
+length 1 8
+length 2 28
+length 3 55
+length 4 49
+length 5 2
+process done 7.04470396042
+minRF: 0.0525 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0525_0.3_0.2_synthetic_65K.txt
+././outputs/synthetic/synthetic_0.0525_0.3_0.2_synthetic_65K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722', '684', '217']
+data read 0.162459135056
+length 1 8
+length 2 28
+length 3 55
+length 4 49
+length 5 2
+process done 8.22099018097
+minRF: 0.0525 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0525_0.3_0.2_synthetic_70K.txt
+././outputs/synthetic/synthetic_0.0525_0.3_0.2_synthetic_70K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722', '684', '217']
+data read 0.167037963867
+length 1 8
+length 2 28
+length 3 55
+length 4 49
+length 5 2
+process done 8.09395003319
+minRF: 0.0525 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0525_0.3_0.2_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0525_0.3_0.2_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684']
+data read 0.179749965668
+length 1 8
+length 2 28
+length 3 55
+length 4 47
+length 5 4
+process done 8.51760601997
+minRF: 0.0525 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0525_0.3_0.2_synthetic_80K.txt
+././outputs/synthetic/synthetic_0.0525_0.3_0.2_synthetic_80K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '217', '684']
+data read 0.194643974304
+length 1 8
+length 2 28
+length 3 55
+length 4 47
+length 5 4
+process done 9.70395088196
+minRF: 0.0525 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0525_0.3_0.2_synthetic_85K.txt
+././outputs/synthetic/synthetic_0.0525_0.3_0.2_synthetic_85K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '684', '217']
+data read 0.202959060669
+length 1 8
+length 2 28
+length 3 55
+length 4 50
+length 5 2
+process done 9.81746006012
+minRF: 0.0525 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0525_0.3_0.2_synthetic_90K.txt
+././outputs/synthetic/synthetic_0.0525_0.3_0.2_synthetic_90K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722', '684', '217']
+data read 0.223533153534
+length 1 8
+length 2 28
+length 3 55
+length 4 49
+length 5 2
+process done 10.9125339985
+minRF: 0.0525 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0525_0.3_0.2_synthetic_95K.txt
+././outputs/synthetic/synthetic_0.0525_0.3_0.2_synthetic_95K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '684', '217']
+data read 0.226840019226
+length 1 8
+length 2 28
+length 3 55
+length 4 50
+length 5 2
+process done 10.806604147
+minRF: 0.0525 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0525_0.3_0.2_synthetic_100K.txt
+././outputs/synthetic/synthetic_0.0525_0.3_0.2_synthetic_100K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354', '684', '217']
+data read 0.248110055923
+length 1 8
+length 2 28
+length 3 55
+length 4 50
+length 5 2
+process done 12.1644699574
+minRF: 0.055 minCS: 0.3 maxOR: 0.05 outfile ././outputs/synthetic/synthetic_0.055_0.3_0.05_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.055_0.3_0.05_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354']
+data read 0.176125049591
+length 1 6
+length 2 3
+process done 0.927690029144
+minRF: 0.055 minCS: 0.3 maxOR: 0.1 outfile ././outputs/synthetic/synthetic_0.055_0.3_0.1_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.055_0.3_0.1_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354']
+data read 0.187233924866
+length 1 6
+length 2 14
+length 3 3
+process done 1.93324303627
+minRF: 0.055 minCS: 0.3 maxOR: 0.15 outfile ././outputs/synthetic/synthetic_0.055_0.3_0.15_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.055_0.3_0.15_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354']
+data read 0.176275968552
+length 1 6
+length 2 14
+length 3 16
+length 4 2
+process done 2.28281092644
+minRF: 0.055 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.055_0.3_0.2_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.055_0.3_0.2_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354']
+data read 0.17750120163
+length 1 6
+length 2 15
+length 3 19
+length 4 12
+process done 2.72235202789
+minRF: 0.055 minCS: 0.3 maxOR: 0.25 outfile ././outputs/synthetic/synthetic_0.055_0.3_0.25_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.055_0.3_0.25_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354']
+data read 0.19261598587
+length 1 6
+length 2 15
+length 3 19
+length 4 12
+length 5 3
+process done 3.08339500427
+minRF: 0.055 minCS: 0.3 maxOR: 0.3 outfile ././outputs/synthetic/synthetic_0.055_0.3_0.3_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.055_0.3_0.3_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354']
+data read 0.176129102707
+length 1 6
+length 2 15
+length 3 20
+length 4 15
+length 5 6
+length 6 1
+process done 3.27700901031
+minRF: 0.055 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.055_0.3_0.2_synthetic_55K.txt
+././outputs/synthetic/synthetic_0.055_0.3_0.2_synthetic_55K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722']
+data read 0.138645172119
+length 1 6
+length 2 15
+length 3 19
+length 4 10
+process done 2.15370202065
+minRF: 0.055 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.055_0.3_0.2_synthetic_60K.txt
+././outputs/synthetic/synthetic_0.055_0.3_0.2_synthetic_60K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722']
+data read 0.142673969269
+length 1 6
+length 2 15
+length 3 19
+length 4 11
+process done 2.18370485306
+minRF: 0.055 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.055_0.3_0.2_synthetic_65K.txt
+././outputs/synthetic/synthetic_0.055_0.3_0.2_synthetic_65K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722']
+data read 0.165215969086
+length 1 6
+length 2 15
+length 3 19
+length 4 10
+process done 2.54699897766
+minRF: 0.055 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.055_0.3_0.2_synthetic_70K.txt
+././outputs/synthetic/synthetic_0.055_0.3_0.2_synthetic_70K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722']
+data read 0.165889978409
+length 1 6
+length 2 15
+length 3 19
+length 4 10
+process done 2.54550385475
+minRF: 0.055 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.055_0.3_0.2_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.055_0.3_0.2_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354']
+data read 0.176208019257
+length 1 6
+length 2 15
+length 3 19
+length 4 12
+process done 2.73660993576
+minRF: 0.055 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.055_0.3_0.2_synthetic_80K.txt
+././outputs/synthetic/synthetic_0.055_0.3_0.2_synthetic_80K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354']
+data read 0.203000068665
+length 1 6
+length 2 15
+length 3 19
+length 4 12
+process done 3.23700404167
+minRF: 0.055 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.055_0.3_0.2_synthetic_85K.txt
+././outputs/synthetic/synthetic_0.055_0.3_0.2_synthetic_85K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354']
+data read 0.199937820435
+length 1 6
+length 2 15
+length 3 19
+length 4 12
+process done 3.21439099312
+minRF: 0.055 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.055_0.3_0.2_synthetic_90K.txt
+././outputs/synthetic/synthetic_0.055_0.3_0.2_synthetic_90K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722']
+data read 0.212192058563
+length 1 6
+length 2 15
+length 3 19
+length 4 11
+process done 3.39943385124
+minRF: 0.055 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.055_0.3_0.2_synthetic_95K.txt
+././outputs/synthetic/synthetic_0.055_0.3_0.2_synthetic_95K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354']
+data read 0.244189977646
+length 1 6
+length 2 15
+length 3 19
+length 4 12
+process done 3.67826390266
+minRF: 0.055 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.055_0.3_0.2_synthetic_100K.txt
+././outputs/synthetic/synthetic_0.055_0.3_0.2_synthetic_100K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354']
+data read 0.235312223434
+length 1 6
+length 2 15
+length 3 19
+length 4 12
+process done 3.63387322426
+minRF: 0.0575 minCS: 0.3 maxOR: 0.05 outfile ././outputs/synthetic/synthetic_0.0575_0.3_0.05_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0575_0.3_0.05_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354']
+data read 0.177292108536
+length 1 6
+length 2 3
+process done 0.897488117218
+minRF: 0.0575 minCS: 0.3 maxOR: 0.1 outfile ././outputs/synthetic/synthetic_0.0575_0.3_0.1_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0575_0.3_0.1_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354']
+data read 0.177392959595
+length 1 6
+length 2 14
+length 3 3
+process done 1.8228700161
+minRF: 0.0575 minCS: 0.3 maxOR: 0.15 outfile ././outputs/synthetic/synthetic_0.0575_0.3_0.15_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0575_0.3_0.15_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354']
+data read 0.176435947418
+length 1 6
+length 2 14
+length 3 16
+length 4 2
+process done 2.27579092979
+minRF: 0.0575 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0575_0.3_0.2_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0575_0.3_0.2_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354']
+data read 0.188851118088
+length 1 6
+length 2 15
+length 3 19
+length 4 12
+process done 2.90986013412
+minRF: 0.0575 minCS: 0.3 maxOR: 0.25 outfile ././outputs/synthetic/synthetic_0.0575_0.3_0.25_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0575_0.3_0.25_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354']
+data read 0.17667388916
+length 1 6
+length 2 15
+length 3 19
+length 4 12
+length 5 3
+process done 2.82203483582
+minRF: 0.0575 minCS: 0.3 maxOR: 0.3 outfile ././outputs/synthetic/synthetic_0.0575_0.3_0.3_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0575_0.3_0.3_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354']
+data read 0.188099145889
+length 1 6
+length 2 15
+length 3 20
+length 4 15
+length 5 6
+length 6 1
+process done 3.53252196312
+minRF: 0.0575 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0575_0.3_0.2_synthetic_55K.txt
+././outputs/synthetic/synthetic_0.0575_0.3_0.2_synthetic_55K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722']
+data read 0.131047964096
+length 1 6
+length 2 15
+length 3 19
+length 4 10
+process done 2.00941801071
+minRF: 0.0575 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0575_0.3_0.2_synthetic_60K.txt
+././outputs/synthetic/synthetic_0.0575_0.3_0.2_synthetic_60K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722']
+data read 0.157905101776
+length 1 6
+length 2 15
+length 3 19
+length 4 11
+process done 2.32477903366
+minRF: 0.0575 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0575_0.3_0.2_synthetic_65K.txt
+././outputs/synthetic/synthetic_0.0575_0.3_0.2_synthetic_65K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722']
+data read 0.154045820236
+length 1 6
+length 2 15
+length 3 19
+length 4 10
+process done 2.36878180504
+minRF: 0.0575 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0575_0.3_0.2_synthetic_70K.txt
+././outputs/synthetic/synthetic_0.0575_0.3_0.2_synthetic_70K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722']
+data read 0.176896095276
+length 1 6
+length 2 15
+length 3 19
+length 4 10
+process done 2.7142059803
+minRF: 0.0575 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0575_0.3_0.2_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0575_0.3_0.2_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354']
+data read 0.176388025284
+length 1 6
+length 2 15
+length 3 19
+length 4 12
+process done 2.72178792953
+minRF: 0.0575 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0575_0.3_0.2_synthetic_80K.txt
+././outputs/synthetic/synthetic_0.0575_0.3_0.2_synthetic_80K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354']
+data read 0.18873500824
+length 1 6
+length 2 15
+length 3 19
+length 4 12
+process done 2.9318549633
+minRF: 0.0575 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0575_0.3_0.2_synthetic_85K.txt
+././outputs/synthetic/synthetic_0.0575_0.3_0.2_synthetic_85K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354']
+data read 0.214951038361
+length 1 6
+length 2 15
+length 3 19
+length 4 12
+process done 3.27276301384
+minRF: 0.0575 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0575_0.3_0.2_synthetic_90K.txt
+././outputs/synthetic/synthetic_0.0575_0.3_0.2_synthetic_90K.txt
+------sizeone-----
+['368', '529', '829', '766', '354', '722']
+data read 0.212309122086
+length 1 6
+length 2 15
+length 3 19
+length 4 11
+process done 3.265376091
+minRF: 0.0575 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0575_0.3_0.2_synthetic_95K.txt
+././outputs/synthetic/synthetic_0.0575_0.3_0.2_synthetic_95K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354']
+data read 0.23702788353
+length 1 6
+length 2 15
+length 3 19
+length 4 12
+process done 3.65856194496
+minRF: 0.0575 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0575_0.3_0.2_synthetic_100K.txt
+././outputs/synthetic/synthetic_0.0575_0.3_0.2_synthetic_100K.txt
+------sizeone-----
+['368', '529', '829', '766', '722', '354']
+data read 0.235236883163
+length 1 6
+length 2 15
+length 3 19
+length 4 12
+process done 3.7328119278
+minRF: 0.06 minCS: 0.3 maxOR: 0.05 outfile ././outputs/synthetic/synthetic_0.06_0.3_0.05_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.06_0.3_0.05_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766']
+data read 0.1863758564
+length 1 4
+length 2 1
+process done 0.568009853363
+minRF: 0.06 minCS: 0.3 maxOR: 0.1 outfile ././outputs/synthetic/synthetic_0.06_0.3_0.1_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.06_0.3_0.1_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766']
+data read 0.178330898285
+length 1 4
+length 2 5
+length 3 1
+process done 0.705972909927
+minRF: 0.06 minCS: 0.3 maxOR: 0.15 outfile ././outputs/synthetic/synthetic_0.06_0.3_0.15_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.06_0.3_0.15_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766']
+data read 0.194813013077
+length 1 4
+length 2 5
+length 3 2
+process done 0.76500415802
+minRF: 0.06 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.06_0.3_0.2_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.06_0.3_0.2_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766']
+data read 0.176733970642
+length 1 4
+length 2 6
+length 3 3
+process done 0.794173002243
+minRF: 0.06 minCS: 0.3 maxOR: 0.25 outfile ././outputs/synthetic/synthetic_0.06_0.3_0.25_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.06_0.3_0.25_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766']
+data read 0.177274942398
+length 1 4
+length 2 6
+length 3 3
+process done 0.799520969391
+minRF: 0.06 minCS: 0.3 maxOR: 0.3 outfile ././outputs/synthetic/synthetic_0.06_0.3_0.3_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.06_0.3_0.3_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766']
+data read 0.179452896118
+length 1 4
+length 2 6
+length 3 4
+length 4 1
+process done 0.93418598175
+minRF: 0.06 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.06_0.3_0.2_synthetic_55K.txt
+././outputs/synthetic/synthetic_0.06_0.3_0.2_synthetic_55K.txt
+------sizeone-----
+['368', '529', '829', '766']
+data read 0.13885807991
+length 1 4
+length 2 6
+length 3 3
+process done 0.632436037064
+minRF: 0.06 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.06_0.3_0.2_synthetic_60K.txt
+././outputs/synthetic/synthetic_0.06_0.3_0.2_synthetic_60K.txt
+------sizeone-----
+['368', '529', '829', '766']
+data read 0.142463207245
+length 1 4
+length 2 6
+length 3 3
+process done 0.638229131699
+minRF: 0.06 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.06_0.3_0.2_synthetic_65K.txt
+././outputs/synthetic/synthetic_0.06_0.3_0.2_synthetic_65K.txt
+------sizeone-----
+['368', '529', '829', '766']
+data read 0.160115003586
+length 1 4
+length 2 6
+length 3 3
+process done 0.728642940521
+minRF: 0.06 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.06_0.3_0.2_synthetic_70K.txt
+././outputs/synthetic/synthetic_0.06_0.3_0.2_synthetic_70K.txt
+------sizeone-----
+['368', '529', '829', '766']
+data read 0.165699005127
+length 1 4
+length 2 6
+length 3 3
+process done 0.751054048538
+minRF: 0.06 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.06_0.3_0.2_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.06_0.3_0.2_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829', '766']
+data read 0.205214977264
+length 1 4
+length 2 6
+length 3 3
+process done 0.901781082153
+minRF: 0.06 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.06_0.3_0.2_synthetic_80K.txt
+././outputs/synthetic/synthetic_0.06_0.3_0.2_synthetic_80K.txt
+------sizeone-----
+['368', '529', '829', '766']
+data read 0.221910953522
+length 1 4
+length 2 6
+length 3 3
+process done 0.933827877045
+minRF: 0.06 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.06_0.3_0.2_synthetic_85K.txt
+././outputs/synthetic/synthetic_0.06_0.3_0.2_synthetic_85K.txt
+------sizeone-----
+['368', '529', '829', '766']
+data read 0.199500083923
+length 1 4
+length 2 6
+length 3 3
+process done 0.898632049561
+minRF: 0.06 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.06_0.3_0.2_synthetic_90K.txt
+././outputs/synthetic/synthetic_0.06_0.3_0.2_synthetic_90K.txt
+------sizeone-----
+['368', '529', '829', '766']
+data read 0.213927030563
+length 1 4
+length 2 6
+length 3 3
+process done 0.954543113708
+minRF: 0.06 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.06_0.3_0.2_synthetic_95K.txt
+././outputs/synthetic/synthetic_0.06_0.3_0.2_synthetic_95K.txt
+------sizeone-----
+['368', '529', '829', '766']
+data read 0.222531080246
+length 1 4
+length 2 6
+length 3 3
+process done 1.01179599762
+minRF: 0.06 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.06_0.3_0.2_synthetic_100K.txt
+././outputs/synthetic/synthetic_0.06_0.3_0.2_synthetic_100K.txt
+------sizeone-----
+['368', '529', '829', '766']
+data read 0.233777999878
+length 1 4
+length 2 6
+length 3 3
+process done 1.06569004059
+minRF: 0.0625 minCS: 0.3 maxOR: 0.05 outfile ././outputs/synthetic/synthetic_0.0625_0.3_0.05_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0625_0.3_0.05_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.176325082779
+length 1 3
+process done 0.36021900177
+minRF: 0.0625 minCS: 0.3 maxOR: 0.1 outfile ././outputs/synthetic/synthetic_0.0625_0.3_0.1_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0625_0.3_0.1_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.176333904266
+length 1 3
+length 2 2
+process done 0.433367967606
+minRF: 0.0625 minCS: 0.3 maxOR: 0.15 outfile ././outputs/synthetic/synthetic_0.0625_0.3_0.15_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0625_0.3_0.15_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.186587095261
+length 1 3
+length 2 2
+process done 0.455515146255
+minRF: 0.0625 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0625_0.3_0.2_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0625_0.3_0.2_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.177133083344
+length 1 3
+length 2 3
+process done 0.483769178391
+minRF: 0.0625 minCS: 0.3 maxOR: 0.25 outfile ././outputs/synthetic/synthetic_0.0625_0.3_0.25_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0625_0.3_0.25_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.190515041351
+length 1 3
+length 2 3
+process done 0.520128011703
+minRF: 0.0625 minCS: 0.3 maxOR: 0.3 outfile ././outputs/synthetic/synthetic_0.0625_0.3_0.3_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0625_0.3_0.3_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.176290035248
+length 1 3
+length 2 3
+length 3 1
+process done 0.552711009979
+minRF: 0.0625 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0625_0.3_0.2_synthetic_55K.txt
+././outputs/synthetic/synthetic_0.0625_0.3_0.2_synthetic_55K.txt
+------sizeone-----
+['368', '529', '829', '766']
+data read 0.130587816238
+length 1 4
+length 2 6
+length 3 3
+process done 0.583469867706
+minRF: 0.0625 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0625_0.3_0.2_synthetic_60K.txt
+././outputs/synthetic/synthetic_0.0625_0.3_0.2_synthetic_60K.txt
+------sizeone-----
+['368', '529', '829', '766']
+data read 0.141274929047
+length 1 4
+length 2 6
+length 3 3
+process done 0.636084079742
+minRF: 0.0625 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0625_0.3_0.2_synthetic_65K.txt
+././outputs/synthetic/synthetic_0.0625_0.3_0.2_synthetic_65K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.15379691124
+length 1 3
+length 2 3
+process done 0.418972015381
+minRF: 0.0625 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0625_0.3_0.2_synthetic_70K.txt
+././outputs/synthetic/synthetic_0.0625_0.3_0.2_synthetic_70K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.164943933487
+length 1 3
+length 2 3
+process done 0.453236818314
+minRF: 0.0625 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0625_0.3_0.2_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0625_0.3_0.2_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.177891969681
+length 1 3
+length 2 3
+process done 0.482906103134
+minRF: 0.0625 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0625_0.3_0.2_synthetic_80K.txt
+././outputs/synthetic/synthetic_0.0625_0.3_0.2_synthetic_80K.txt
+------sizeone-----
+['368', '529', '829', '766']
+data read 0.189081907272
+length 1 4
+length 2 6
+length 3 3
+process done 0.855167865753
+minRF: 0.0625 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0625_0.3_0.2_synthetic_85K.txt
+././outputs/synthetic/synthetic_0.0625_0.3_0.2_synthetic_85K.txt
+------sizeone-----
+['368', '529', '829', '766']
+data read 0.200619935989
+length 1 4
+length 2 6
+length 3 3
+process done 0.899787902832
+minRF: 0.0625 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0625_0.3_0.2_synthetic_90K.txt
+././outputs/synthetic/synthetic_0.0625_0.3_0.2_synthetic_90K.txt
+------sizeone-----
+['368', '529', '829', '766']
+data read 0.224419116974
+length 1 4
+length 2 6
+length 3 3
+process done 1.00739502907
+minRF: 0.0625 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0625_0.3_0.2_synthetic_95K.txt
+././outputs/synthetic/synthetic_0.0625_0.3_0.2_synthetic_95K.txt
+------sizeone-----
+['368', '529', '829', '766']
+data read 0.223375082016
+length 1 4
+length 2 6
+length 3 3
+process done 1.01210808754
+minRF: 0.0625 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0625_0.3_0.2_synthetic_100K.txt
+././outputs/synthetic/synthetic_0.0625_0.3_0.2_synthetic_100K.txt
+------sizeone-----
+['368', '529', '829', '766']
+data read 0.234529972076
+length 1 4
+length 2 6
+length 3 3
+process done 1.08374404907
+minRF: 0.065 minCS: 0.3 maxOR: 0.05 outfile ././outputs/synthetic/synthetic_0.065_0.3_0.05_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.065_0.3_0.05_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.176558971405
+length 1 3
+process done 0.359923124313
+minRF: 0.065 minCS: 0.3 maxOR: 0.1 outfile ././outputs/synthetic/synthetic_0.065_0.3_0.1_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.065_0.3_0.1_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.176409006119
+length 1 3
+length 2 2
+process done 0.428747177124
+minRF: 0.065 minCS: 0.3 maxOR: 0.15 outfile ././outputs/synthetic/synthetic_0.065_0.3_0.15_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.065_0.3_0.15_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.19088602066
+length 1 3
+length 2 2
+process done 0.463450193405
+minRF: 0.065 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.065_0.3_0.2_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.065_0.3_0.2_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.17759513855
+length 1 3
+length 2 3
+process done 0.484600067139
+minRF: 0.065 minCS: 0.3 maxOR: 0.25 outfile ././outputs/synthetic/synthetic_0.065_0.3_0.25_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.065_0.3_0.25_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.195195913315
+length 1 3
+length 2 3
+process done 0.529352903366
+minRF: 0.065 minCS: 0.3 maxOR: 0.3 outfile ././outputs/synthetic/synthetic_0.065_0.3_0.3_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.065_0.3_0.3_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.176408052444
+length 1 3
+length 2 3
+length 3 1
+process done 0.562701225281
+minRF: 0.065 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.065_0.3_0.2_synthetic_55K.txt
+././outputs/synthetic/synthetic_0.065_0.3_0.2_synthetic_55K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.131817102432
+length 1 3
+length 2 3
+process done 0.357458114624
+minRF: 0.065 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.065_0.3_0.2_synthetic_60K.txt
+././outputs/synthetic/synthetic_0.065_0.3_0.2_synthetic_60K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.143920898438
+length 1 3
+length 2 3
+process done 0.389778852463
+minRF: 0.065 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.065_0.3_0.2_synthetic_65K.txt
+././outputs/synthetic/synthetic_0.065_0.3_0.2_synthetic_65K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.155615091324
+length 1 3
+length 2 3
+process done 0.420322179794
+minRF: 0.065 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.065_0.3_0.2_synthetic_70K.txt
+././outputs/synthetic/synthetic_0.065_0.3_0.2_synthetic_70K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.179379940033
+length 1 3
+length 2 3
+process done 0.481338977814
+minRF: 0.065 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.065_0.3_0.2_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.065_0.3_0.2_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.177853822708
+length 1 3
+length 2 3
+process done 0.483464956284
+minRF: 0.065 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.065_0.3_0.2_synthetic_80K.txt
+././outputs/synthetic/synthetic_0.065_0.3_0.2_synthetic_80K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.188387155533
+length 1 3
+length 2 3
+process done 0.514364957809
+minRF: 0.065 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.065_0.3_0.2_synthetic_85K.txt
+././outputs/synthetic/synthetic_0.065_0.3_0.2_synthetic_85K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.20184803009
+length 1 3
+length 2 3
+process done 0.550438165665
+minRF: 0.065 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.065_0.3_0.2_synthetic_90K.txt
+././outputs/synthetic/synthetic_0.065_0.3_0.2_synthetic_90K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.211255073547
+length 1 3
+length 2 3
+process done 0.586229085922
+minRF: 0.065 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.065_0.3_0.2_synthetic_95K.txt
+././outputs/synthetic/synthetic_0.065_0.3_0.2_synthetic_95K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.237030982971
+length 1 3
+length 2 3
+process done 0.673007011414
+minRF: 0.065 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.065_0.3_0.2_synthetic_100K.txt
+././outputs/synthetic/synthetic_0.065_0.3_0.2_synthetic_100K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.23636007309
+length 1 3
+length 2 3
+process done 0.642584085464
+minRF: 0.0675 minCS: 0.3 maxOR: 0.05 outfile ././outputs/synthetic/synthetic_0.0675_0.3_0.05_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0675_0.3_0.05_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.177230119705
+length 1 3
+process done 0.360455036163
+minRF: 0.0675 minCS: 0.3 maxOR: 0.1 outfile ././outputs/synthetic/synthetic_0.0675_0.3_0.1_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0675_0.3_0.1_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.177667140961
+length 1 3
+length 2 2
+process done 0.431059122086
+minRF: 0.0675 minCS: 0.3 maxOR: 0.15 outfile ././outputs/synthetic/synthetic_0.0675_0.3_0.15_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0675_0.3_0.15_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.176409006119
+length 1 3
+length 2 2
+process done 0.430742025375
+minRF: 0.0675 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0675_0.3_0.2_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0675_0.3_0.2_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.176379919052
+length 1 3
+length 2 3
+process done 0.488468885422
+minRF: 0.0675 minCS: 0.3 maxOR: 0.25 outfile ././outputs/synthetic/synthetic_0.0675_0.3_0.25_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0675_0.3_0.25_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.177587985992
+length 1 3
+length 2 3
+process done 0.486373901367
+minRF: 0.0675 minCS: 0.3 maxOR: 0.3 outfile ././outputs/synthetic/synthetic_0.0675_0.3_0.3_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0675_0.3_0.3_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.176070213318
+length 1 3
+length 2 3
+length 3 1
+process done 0.551782131195
+minRF: 0.0675 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0675_0.3_0.2_synthetic_55K.txt
+././outputs/synthetic/synthetic_0.0675_0.3_0.2_synthetic_55K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.130867004395
+length 1 3
+length 2 3
+process done 0.355400085449
+minRF: 0.0675 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0675_0.3_0.2_synthetic_60K.txt
+././outputs/synthetic/synthetic_0.0675_0.3_0.2_synthetic_60K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.141907930374
+length 1 3
+length 2 3
+process done 0.387131929398
+minRF: 0.0675 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0675_0.3_0.2_synthetic_65K.txt
+././outputs/synthetic/synthetic_0.0675_0.3_0.2_synthetic_65K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.16268992424
+length 1 3
+length 2 3
+process done 0.44578909874
+minRF: 0.0675 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0675_0.3_0.2_synthetic_70K.txt
+././outputs/synthetic/synthetic_0.0675_0.3_0.2_synthetic_70K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.166068077087
+length 1 3
+length 2 3
+process done 0.460572004318
+minRF: 0.0675 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0675_0.3_0.2_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.0675_0.3_0.2_synthetic_75K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.184892177582
+length 1 3
+length 2 3
+process done 0.512428045273
+minRF: 0.0675 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0675_0.3_0.2_synthetic_80K.txt
+././outputs/synthetic/synthetic_0.0675_0.3_0.2_synthetic_80K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.188424825668
+length 1 3
+length 2 3
+process done 0.515196800232
+minRF: 0.0675 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0675_0.3_0.2_synthetic_85K.txt
+././outputs/synthetic/synthetic_0.0675_0.3_0.2_synthetic_85K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.214569091797
+length 1 3
+length 2 3
+process done 0.577558040619
+minRF: 0.0675 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0675_0.3_0.2_synthetic_90K.txt
+././outputs/synthetic/synthetic_0.0675_0.3_0.2_synthetic_90K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.214794874191
+length 1 3
+length 2 3
+process done 0.581159830093
+minRF: 0.0675 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0675_0.3_0.2_synthetic_95K.txt
+././outputs/synthetic/synthetic_0.0675_0.3_0.2_synthetic_95K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.224296092987
+length 1 3
+length 2 3
+process done 0.610565900803
+minRF: 0.0675 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.0675_0.3_0.2_synthetic_100K.txt
+././outputs/synthetic/synthetic_0.0675_0.3_0.2_synthetic_100K.txt
+------sizeone-----
+['368', '529', '829']
+data read 0.248569965363
+length 1 3
+length 2 3
+process done 0.683109998703
+minRF: 0.07 minCS: 0.3 maxOR: 0.05 outfile ././outputs/synthetic/synthetic_0.07_0.3_0.05_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.07_0.3_0.05_synthetic_75K.txt
+------sizeone-----
+['368', '529']
+data read 0.176363945007
+length 1 2
+process done 0.287100076675
+minRF: 0.07 minCS: 0.3 maxOR: 0.1 outfile ././outputs/synthetic/synthetic_0.07_0.3_0.1_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.07_0.3_0.1_synthetic_75K.txt
+------sizeone-----
+['368', '529']
+data read 0.181792974472
+length 1 2
+length 2 1
+process done 0.366067171097
+minRF: 0.07 minCS: 0.3 maxOR: 0.15 outfile ././outputs/synthetic/synthetic_0.07_0.3_0.15_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.07_0.3_0.15_synthetic_75K.txt
+------sizeone-----
+['368', '529']
+data read 0.178527832031
+length 1 2
+length 2 1
+process done 0.359302997589
+minRF: 0.07 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.07_0.3_0.2_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.07_0.3_0.2_synthetic_75K.txt
+------sizeone-----
+['368', '529']
+data read 0.176322937012
+length 1 2
+length 2 1
+process done 0.356487989426
+minRF: 0.07 minCS: 0.3 maxOR: 0.25 outfile ././outputs/synthetic/synthetic_0.07_0.3_0.25_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.07_0.3_0.25_synthetic_75K.txt
+------sizeone-----
+['368', '529']
+data read 0.190940141678
+length 1 2
+length 2 1
+process done 0.386016130447
+minRF: 0.07 minCS: 0.3 maxOR: 0.3 outfile ././outputs/synthetic/synthetic_0.07_0.3_0.3_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.07_0.3_0.3_synthetic_75K.txt
+------sizeone-----
+['368', '529']
+data read 0.175621986389
+length 1 2
+length 2 1
+process done 0.355851173401
+minRF: 0.07 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.07_0.3_0.2_synthetic_55K.txt
+././outputs/synthetic/synthetic_0.07_0.3_0.2_synthetic_55K.txt
+------sizeone-----
+['368', '529']
+data read 0.131130933762
+length 1 2
+length 2 1
+process done 0.265017986298
+minRF: 0.07 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.07_0.3_0.2_synthetic_60K.txt
+././outputs/synthetic/synthetic_0.07_0.3_0.2_synthetic_60K.txt
+------sizeone-----
+['368', '529']
+data read 0.156841993332
+length 1 2
+length 2 1
+process done 0.304391860962
+minRF: 0.07 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.07_0.3_0.2_synthetic_65K.txt
+././outputs/synthetic/synthetic_0.07_0.3_0.2_synthetic_65K.txt
+------sizeone-----
+['368', '529']
+data read 0.153537988663
+length 1 2
+length 2 1
+process done 0.308865070343
+minRF: 0.07 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.07_0.3_0.2_synthetic_70K.txt
+././outputs/synthetic/synthetic_0.07_0.3_0.2_synthetic_70K.txt
+------sizeone-----
+['368', '529']
+data read 0.166746139526
+length 1 2
+length 2 1
+process done 0.334933042526
+minRF: 0.07 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.07_0.3_0.2_synthetic_75K.txt
+././outputs/synthetic/synthetic_0.07_0.3_0.2_synthetic_75K.txt
+------sizeone-----
+['368', '529']
+data read 0.188757896423
+length 1 2
+length 2 1
+process done 0.381223917007
+minRF: 0.07 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.07_0.3_0.2_synthetic_80K.txt
+././outputs/synthetic/synthetic_0.07_0.3_0.2_synthetic_80K.txt
+------sizeone-----
+['368', '529']
+data read 0.188320159912
+length 1 2
+length 2 1
+process done 0.379296064377
+minRF: 0.07 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.07_0.3_0.2_synthetic_85K.txt
+././outputs/synthetic/synthetic_0.07_0.3_0.2_synthetic_85K.txt
+------sizeone-----
+['368', '529']
+data read 0.212453842163
+length 1 2
+length 2 1
+process done 0.431553840637
+minRF: 0.07 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.07_0.3_0.2_synthetic_90K.txt
+././outputs/synthetic/synthetic_0.07_0.3_0.2_synthetic_90K.txt
+------sizeone-----
+['368', '529']
+data read 0.213086128235
+length 1 2
+length 2 1
+process done 0.428951978683
+minRF: 0.07 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.07_0.3_0.2_synthetic_95K.txt
+././outputs/synthetic/synthetic_0.07_0.3_0.2_synthetic_95K.txt
+------sizeone-----
+['368', '529']
+data read 0.224019050598
+length 1 2
+length 2 1
+process done 0.452290058136
+minRF: 0.07 minCS: 0.3 maxOR: 0.2 outfile ././outputs/synthetic/synthetic_0.07_0.3_0.2_synthetic_100K.txt
+././outputs/synthetic/synthetic_0.07_0.3_0.2_synthetic_100K.txt
+------sizeone-----
+['368', '529']
+data read 0.238286972046
+length 1 2
+length 2 1
+process done 0.477229833603
